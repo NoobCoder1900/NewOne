@@ -38,12 +38,17 @@ public class PlayerAnim : MonoBehaviour
     {
         if (player == null) return;
         
+        //唯一的问题，不能解决 Run --> Idle 的转变
+        // 没有 input.y
 
-        if (player.Grounded && player.input.runInput != 0 && player.Velocity.y == 0)
+        if (player.Grounded  && player.Velocity.y == 0)
         {
-            ChangeAnimState(PlayerRun);
-           
+            if (player.input.runInput != 0) 
+                ChangeAnimState(PlayerRun);
+            if (player.Velocity.x != 0 && (Input.GetKeyUp(KeyCode.D) || Input.GetKeyUp(KeyCode.A)))
+                ChangeAnimState(PlayerIdle);
         }
+        
         if (player.Grounded && player.input.jumpKeyDown)
         {
             ChangeAnimState(PlayerJumpingUp);
