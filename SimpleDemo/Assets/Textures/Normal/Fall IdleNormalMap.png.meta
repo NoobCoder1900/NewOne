@@ -107,12 +107,12 @@ TextureImporter:
       name: Fall IdleNormalMap_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 900
-        width: 150
-        height: 150
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 25
+        y: 923
+        width: 117
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -128,12 +128,12 @@ TextureImporter:
       name: Fall IdleNormalMap_1
       rect:
         serializedVersion: 2
-        x: 150
-        y: 900
-        width: 150
-        height: 150
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 175
+        y: 923
+        width: 117
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -149,12 +149,12 @@ TextureImporter:
       name: Fall IdleNormalMap_2
       rect:
         serializedVersion: 2
-        x: 300
-        y: 900
-        width: 150
-        height: 150
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 325
+        y: 923
+        width: 117
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -170,12 +170,12 @@ TextureImporter:
       name: Fall IdleNormalMap_3
       rect:
         serializedVersion: 2
-        x: 450
-        y: 900
-        width: 150
-        height: 150
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 475
+        y: 923
+        width: 117
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -191,12 +191,12 @@ TextureImporter:
       name: Fall IdleNormalMap_4
       rect:
         serializedVersion: 2
-        x: 600
-        y: 900
-        width: 150
-        height: 150
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 625
+        y: 923
+        width: 117
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -212,12 +212,12 @@ TextureImporter:
       name: Fall IdleNormalMap_5
       rect:
         serializedVersion: 2
-        x: 750
-        y: 900
-        width: 150
-        height: 150
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 775
+        y: 923
+        width: 117
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -233,12 +233,12 @@ TextureImporter:
       name: Fall IdleNormalMap_6
       rect:
         serializedVersion: 2
-        x: 900
-        y: 900
-        width: 150
-        height: 150
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 925
+        y: 923
+        width: 117
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -254,12 +254,12 @@ TextureImporter:
       name: Fall IdleNormalMap_7
       rect:
         serializedVersion: 2
-        x: 0
-        y: 750
-        width: 150
-        height: 150
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 25
+        y: 773
+        width: 117
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -275,12 +275,12 @@ TextureImporter:
       name: Fall IdleNormalMap_8
       rect:
         serializedVersion: 2
-        x: 150
-        y: 750
-        width: 150
-        height: 150
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 175
+        y: 773
+        width: 117
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -296,12 +296,12 @@ TextureImporter:
       name: Fall IdleNormalMap_9
       rect:
         serializedVersion: 2
-        x: 300
-        y: 750
-        width: 150
-        height: 150
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 325
+        y: 773
+        width: 117
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -317,12 +317,12 @@ TextureImporter:
       name: Fall IdleNormalMap_10
       rect:
         serializedVersion: 2
-        x: 450
-        y: 750
-        width: 150
-        height: 150
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 475
+        y: 773
+        width: 117
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -338,12 +338,12 @@ TextureImporter:
       name: Fall IdleNormalMap_11
       rect:
         serializedVersion: 2
-        x: 600
-        y: 750
-        width: 150
-        height: 150
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 625
+        y: 773
+        width: 117
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -359,12 +359,12 @@ TextureImporter:
       name: Fall IdleNormalMap_12
       rect:
         serializedVersion: 2
-        x: 750
-        y: 750
-        width: 150
-        height: 150
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 775
+        y: 773
+        width: 117
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -380,12 +380,12 @@ TextureImporter:
       name: Fall IdleNormalMap_13
       rect:
         serializedVersion: 2
-        x: 900
-        y: 750
-        width: 150
-        height: 150
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 925
+        y: 773
+        width: 117
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -401,12 +401,12 @@ TextureImporter:
       name: Fall IdleNormalMap_14
       rect:
         serializedVersion: 2
-        x: 0
-        y: 600
-        width: 150
-        height: 150
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 25
+        y: 624
+        width: 116
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -422,12 +422,12 @@ TextureImporter:
       name: Fall IdleNormalMap_15
       rect:
         serializedVersion: 2
-        x: 150
-        y: 600
-        width: 150
-        height: 150
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 175
+        y: 624
+        width: 116
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -443,12 +443,12 @@ TextureImporter:
       name: Fall IdleNormalMap_16
       rect:
         serializedVersion: 2
-        x: 300
-        y: 600
-        width: 150
-        height: 150
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 325
+        y: 624
+        width: 116
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -464,12 +464,12 @@ TextureImporter:
       name: Fall IdleNormalMap_17
       rect:
         serializedVersion: 2
-        x: 450
-        y: 600
-        width: 150
-        height: 150
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 475
+        y: 624
+        width: 116
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -485,12 +485,12 @@ TextureImporter:
       name: Fall IdleNormalMap_18
       rect:
         serializedVersion: 2
-        x: 600
-        y: 600
-        width: 150
-        height: 150
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 625
+        y: 624
+        width: 116
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -506,12 +506,12 @@ TextureImporter:
       name: Fall IdleNormalMap_19
       rect:
         serializedVersion: 2
-        x: 750
-        y: 600
-        width: 150
-        height: 150
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 775
+        y: 624
+        width: 116
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -527,12 +527,12 @@ TextureImporter:
       name: Fall IdleNormalMap_20
       rect:
         serializedVersion: 2
-        x: 900
-        y: 600
-        width: 150
-        height: 150
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 925
+        y: 624
+        width: 116
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -548,12 +548,12 @@ TextureImporter:
       name: Fall IdleNormalMap_21
       rect:
         serializedVersion: 2
-        x: 0
-        y: 450
-        width: 150
-        height: 150
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 25
+        y: 474
+        width: 116
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -569,12 +569,12 @@ TextureImporter:
       name: Fall IdleNormalMap_22
       rect:
         serializedVersion: 2
-        x: 150
-        y: 450
-        width: 150
-        height: 150
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 175
+        y: 474
+        width: 116
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -590,12 +590,12 @@ TextureImporter:
       name: Fall IdleNormalMap_23
       rect:
         serializedVersion: 2
-        x: 300
-        y: 450
-        width: 150
-        height: 150
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 325
+        y: 474
+        width: 116
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -611,12 +611,12 @@ TextureImporter:
       name: Fall IdleNormalMap_24
       rect:
         serializedVersion: 2
-        x: 450
-        y: 450
-        width: 150
-        height: 150
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 475
+        y: 474
+        width: 116
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -632,12 +632,12 @@ TextureImporter:
       name: Fall IdleNormalMap_25
       rect:
         serializedVersion: 2
-        x: 600
-        y: 450
-        width: 150
-        height: 150
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 625
+        y: 474
+        width: 116
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -653,12 +653,12 @@ TextureImporter:
       name: Fall IdleNormalMap_26
       rect:
         serializedVersion: 2
-        x: 750
-        y: 450
-        width: 150
-        height: 150
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 775
+        y: 474
+        width: 116
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -674,12 +674,12 @@ TextureImporter:
       name: Fall IdleNormalMap_27
       rect:
         serializedVersion: 2
-        x: 900
-        y: 450
-        width: 150
-        height: 150
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 925
+        y: 474
+        width: 116
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -695,12 +695,12 @@ TextureImporter:
       name: Fall IdleNormalMap_28
       rect:
         serializedVersion: 2
-        x: 0
-        y: 300
-        width: 150
-        height: 150
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 25
+        y: 324
+        width: 116
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -716,12 +716,12 @@ TextureImporter:
       name: Fall IdleNormalMap_29
       rect:
         serializedVersion: 2
-        x: 150
-        y: 300
-        width: 150
-        height: 150
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 175
+        y: 323
+        width: 116
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -737,12 +737,12 @@ TextureImporter:
       name: Fall IdleNormalMap_30
       rect:
         serializedVersion: 2
-        x: 300
-        y: 300
-        width: 150
-        height: 150
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 325
+        y: 323
+        width: 115
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -758,12 +758,12 @@ TextureImporter:
       name: Fall IdleNormalMap_31
       rect:
         serializedVersion: 2
-        x: 450
-        y: 300
-        width: 150
-        height: 150
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 475
+        y: 323
+        width: 116
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -779,12 +779,12 @@ TextureImporter:
       name: Fall IdleNormalMap_32
       rect:
         serializedVersion: 2
-        x: 600
-        y: 300
-        width: 150
-        height: 150
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 625
+        y: 323
+        width: 116
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -800,12 +800,12 @@ TextureImporter:
       name: Fall IdleNormalMap_33
       rect:
         serializedVersion: 2
-        x: 750
-        y: 300
-        width: 150
-        height: 150
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 775
+        y: 323
+        width: 116
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -821,12 +821,12 @@ TextureImporter:
       name: Fall IdleNormalMap_34
       rect:
         serializedVersion: 2
-        x: 900
-        y: 300
-        width: 150
-        height: 150
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 925
+        y: 323
+        width: 116
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -842,12 +842,12 @@ TextureImporter:
       name: Fall IdleNormalMap_35
       rect:
         serializedVersion: 2
-        x: 0
-        y: 150
-        width: 150
-        height: 150
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 25
+        y: 173
+        width: 116
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -863,12 +863,12 @@ TextureImporter:
       name: Fall IdleNormalMap_36
       rect:
         serializedVersion: 2
-        x: 150
-        y: 150
-        width: 150
-        height: 150
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 175
+        y: 173
+        width: 116
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -884,12 +884,12 @@ TextureImporter:
       name: Fall IdleNormalMap_37
       rect:
         serializedVersion: 2
-        x: 300
-        y: 150
-        width: 150
-        height: 150
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 325
+        y: 173
+        width: 116
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -905,12 +905,12 @@ TextureImporter:
       name: Fall IdleNormalMap_38
       rect:
         serializedVersion: 2
-        x: 450
-        y: 150
-        width: 150
-        height: 150
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 475
+        y: 173
+        width: 116
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -926,12 +926,12 @@ TextureImporter:
       name: Fall IdleNormalMap_39
       rect:
         serializedVersion: 2
-        x: 600
-        y: 150
-        width: 150
-        height: 150
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 625
+        y: 173
+        width: 116
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -947,12 +947,12 @@ TextureImporter:
       name: Fall IdleNormalMap_40
       rect:
         serializedVersion: 2
-        x: 750
-        y: 150
-        width: 150
-        height: 150
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 774
+        y: 173
+        width: 118
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

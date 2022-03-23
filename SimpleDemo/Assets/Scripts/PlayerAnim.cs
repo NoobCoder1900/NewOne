@@ -25,6 +25,15 @@ public class PlayerAnim : MonoBehaviour
     
     #endregion
 
+    #region Materials of animations
+
+    [SerializeField] private Material idle;
+    [SerializeField] private Material run;
+    [SerializeField] private Material jump;
+    [SerializeField] private Material fall;
+    [SerializeField] private Material land;
+
+    #endregion
 
 
 
@@ -38,8 +47,6 @@ public class PlayerAnim : MonoBehaviour
     {
         if (player == null) return;
         
-        //唯一的问题，不能解决 Run --> Idle 的转变
-        // 没有 input.y
 
         if (player.Grounded  && player.Velocity.y == 0)
         {
