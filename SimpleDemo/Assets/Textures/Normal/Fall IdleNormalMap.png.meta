@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 542a3a32cc8da4d5b99f00623cdb7035
+guid: 0aaf2be6f39094fcfb5b358bb4232941
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -104,799 +104,862 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Run_0
+      name: Fall IdleNormalMap_0
       rect:
         serializedVersion: 2
-        x: 51
-        y: 908
-        width: 48
-        height: 114
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 900
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cc33231b5cb0f43519272922d2358fe7
-      internalID: -1133207319
+      spriteID: c9e33da49e79d4c8ea703323ca2dc549
+      internalID: 1254620815
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_1
+      name: Fall IdleNormalMap_1
       rect:
         serializedVersion: 2
-        x: 197
-        y: 908
-        width: 53
-        height: 115
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 150
+        y: 900
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5dd73432299024ae4b2fb62662dfa8fc
-      internalID: 1776516113
+      spriteID: 79ebae21240d14d24b8935310f5deb18
+      internalID: 344661405
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_2
+      name: Fall IdleNormalMap_2
       rect:
         serializedVersion: 2
-        x: 345
-        y: 909
-        width: 55
-        height: 114
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 300
+        y: 900
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5a2079bfbab6043c7a97b47cc3a3cc7e
-      internalID: -869095523
+      spriteID: 9a6225d13a1d544f0b5bbb4ac01f1860
+      internalID: -366173382
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_3
+      name: Fall IdleNormalMap_3
       rect:
         serializedVersion: 2
-        x: 493
-        y: 909
-        width: 57
-        height: 115
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 450
+        y: 900
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7c8c9c40cf15e4d41b6cb8ca7f94eade
-      internalID: 137923701
+      spriteID: 3173d1eaefb0d406595c3ac38abb9ec7
+      internalID: 865721032
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_4
+      name: Fall IdleNormalMap_4
       rect:
         serializedVersion: 2
-        x: 640
-        y: 911
-        width: 60
-        height: 114
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 600
+        y: 900
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4dff2c439c731415399cb551187d47fc
-      internalID: -1699573005
+      spriteID: 86e1163c5be08415dbe77421bf150382
+      internalID: 969193839
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_5
+      name: Fall IdleNormalMap_5
       rect:
         serializedVersion: 2
-        x: 788
-        y: 911
-        width: 63
-        height: 115
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 750
+        y: 900
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a1400ba58bf9346a690ff5db05b408f6
-      internalID: 937864116
+      spriteID: 1470d0f0346a34d00b6647b4d7136d09
+      internalID: -2076058701
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_6
+      name: Fall IdleNormalMap_6
       rect:
         serializedVersion: 2
-        x: 936
-        y: 912
-        width: 68
-        height: 114
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 900
+        y: 900
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd53812f376d845d4a1dffc7259443b0
-      internalID: 832533734
+      spriteID: 34acba82a84204c39a524cabea3d5ac7
+      internalID: -275689330
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_7
+      name: Fall IdleNormalMap_7
       rect:
         serializedVersion: 2
-        x: 35
-        y: 760
-        width: 70
-        height: 116
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 750
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a3511f2e3651045a284545dfe3cb69ef
-      internalID: -1052847507
+      spriteID: e25363b04d59c4be6b04437f778e829b
+      internalID: -1207122357
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_8
+      name: Fall IdleNormalMap_8
       rect:
         serializedVersion: 2
-        x: 184
-        y: 759
-        width: 72
-        height: 116
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 150
+        y: 750
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e39a18e84c680458eb3ffc24a85e043b
-      internalID: -1168451458
+      spriteID: 43d09ec2a4fe042dfa7714ddfd9c1ebd
+      internalID: -1526661318
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_9
+      name: Fall IdleNormalMap_9
       rect:
         serializedVersion: 2
-        x: 335
-        y: 758
-        width: 71
-        height: 117
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 300
+        y: 750
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 699a85217366b4b0ebd30017e20d35bf
-      internalID: 2081444097
+      spriteID: 672e60a5eece44f85ac1775766cb9232
+      internalID: -127168233
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_10
+      name: Fall IdleNormalMap_10
       rect:
         serializedVersion: 2
-        x: 487
-        y: 757
-        width: 67
-        height: 117
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 450
+        y: 750
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f402686dfb9af4bb0af76a310a425f4c
-      internalID: -1223967460
+      spriteID: 55b66217886bd44dcbd069a9e160a12f
+      internalID: -1814006789
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_11
+      name: Fall IdleNormalMap_11
       rect:
         serializedVersion: 2
-        x: 639
-        y: 757
-        width: 62
-        height: 116
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 600
+        y: 750
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e1a442182136f42dabe501b8bc2be023
-      internalID: 1886406893
+      spriteID: 33a02fd8600bd44508fb344c49f45dd5
+      internalID: -1240964819
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_12
+      name: Fall IdleNormalMap_12
       rect:
         serializedVersion: 2
-        x: 792
-        y: 756
-        width: 59
-        height: 116
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 750
+        y: 750
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e0ee92a32e14d46d6922c9d467d15a1e
-      internalID: 1156730588
+      spriteID: e35e8e43deb104ddbbe09ce42c31d2a3
+      internalID: 843302
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_13
+      name: Fall IdleNormalMap_13
       rect:
         serializedVersion: 2
-        x: 945
-        y: 756
-        width: 58
-        height: 116
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 900
+        y: 750
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aa52da3ad162a4e60a0cd4453a3ab885
-      internalID: 47745620
+      spriteID: 1a4724f4cb0c140c18c142414d4ae5ba
+      internalID: 1724005624
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_14
+      name: Fall IdleNormalMap_14
       rect:
         serializedVersion: 2
-        x: 47
-        y: 607
-        width: 58
-        height: 114
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 600
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aa15cff4475f4497691ca32cd651258b
-      internalID: -1062989371
+      spriteID: c114248e8a23d4260891dfbbb09baf69
+      internalID: 1634157295
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_15
+      name: Fall IdleNormalMap_15
       rect:
         serializedVersion: 2
-        x: 200
-        y: 607
-        width: 56
-        height: 114
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 150
+        y: 600
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 48bb38a50062b46a7886c13f898ceea6
-      internalID: 1715203167
+      spriteID: 375772a3473804b37800d1e4b2d0a661
+      internalID: -421229845
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_16
+      name: Fall IdleNormalMap_16
       rect:
         serializedVersion: 2
-        x: 348
-        y: 607
-        width: 59
-        height: 113
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 300
+        y: 600
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 32dc4cd3ec06e4cecbd119611c67390b
-      internalID: 473972596
+      spriteID: c07e6b942f49c492aa02275d7d5c8b76
+      internalID: 582903259
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_17
+      name: Fall IdleNormalMap_17
       rect:
         serializedVersion: 2
-        x: 495
-        y: 608
-        width: 64
-        height: 112
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 450
+        y: 600
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 830bf21f9329046dda9f1ddedd0b0866
-      internalID: 1275287709
+      spriteID: 1c09f989fba084b8b86c383d2aa508d3
+      internalID: 804106223
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_18
+      name: Fall IdleNormalMap_18
       rect:
         serializedVersion: 2
-        x: 644
-        y: 608
-        width: 66
-        height: 113
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 600
+        y: 600
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8d34323b8ec7e422ea3a9969f2afcd71
-      internalID: 674964297
+      spriteID: b4a8a00b0d8014cccae29b6891dcd79e
+      internalID: -446896470
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_19
+      name: Fall IdleNormalMap_19
       rect:
         serializedVersion: 2
-        x: 794
-        y: 608
-        width: 66
-        height: 113
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 750
+        y: 600
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fb228c22e7023440c81ae4a62a71103b
-      internalID: 500139139
+      spriteID: c08ef0dffa91e438cba8732983ffdcf0
+      internalID: -1383929321
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_20
+      name: Fall IdleNormalMap_20
       rect:
         serializedVersion: 2
-        x: 944
-        y: 609
-        width: 65
-        height: 113
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 900
+        y: 600
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b2dd66496475c4f6c81455538f6874d0
-      internalID: -2008096131
+      spriteID: e5332207fcb54485e99861ad0c505e97
+      internalID: -1219384529
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_21
+      name: Fall IdleNormalMap_21
       rect:
         serializedVersion: 2
-        x: 44
-        y: 460
-        width: 64
-        height: 113
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 450
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d783188a327b4450ea12bbfa1ffc177d
-      internalID: 474352797
+      spriteID: 73f54eb91902943bfaba1aa568d8f981
+      internalID: 103714719
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_22
+      name: Fall IdleNormalMap_22
       rect:
         serializedVersion: 2
-        x: 192
-        y: 463
-        width: 65
-        height: 111
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 150
+        y: 450
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3ab6af3ddbec24e2290217087d5a2c7f
-      internalID: -1703363593
+      spriteID: 22b7981540301474e987f0e69ae658d9
+      internalID: 1848820337
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_23
+      name: Fall IdleNormalMap_23
       rect:
         serializedVersion: 2
-        x: 340
-        y: 461
-        width: 67
-        height: 113
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 300
+        y: 450
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0ab0611b9e9a8417ab95b23102c38f9a
-      internalID: 1155950435
+      spriteID: 64c2ce30cf89e41d49503f77bf90fff6
+      internalID: 1065155389
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_24
+      name: Fall IdleNormalMap_24
       rect:
         serializedVersion: 2
-        x: 489
-        y: 461
-        width: 67
-        height: 114
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 450
+        y: 450
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cc2412b783eb9401fa57b6db92c48c04
-      internalID: -1125076010
+      spriteID: dc12db89edfa04d1bbfb1eb097f41e5c
+      internalID: -1388181943
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_25
+      name: Fall IdleNormalMap_25
       rect:
         serializedVersion: 2
-        x: 637
-        y: 461
-        width: 67
-        height: 114
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 600
+        y: 450
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3b6fddf37e20e4b4eb89f8d96e1e8446
-      internalID: 525868624
+      spriteID: a704a812e5a72436a96a462377b2c4ac
+      internalID: -371682343
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_26
+      name: Fall IdleNormalMap_26
       rect:
         serializedVersion: 2
-        x: 786
-        y: 460
-        width: 66
-        height: 116
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 750
+        y: 450
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f48d2d94445aa4ec3b678f996304b086
-      internalID: -1670786242
+      spriteID: 8e45604e2d75e46a3922b1efa212836b
+      internalID: -815847321
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_27
+      name: Fall IdleNormalMap_27
       rect:
         serializedVersion: 2
-        x: 937
-        y: 459
-        width: 67
-        height: 117
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 900
+        y: 450
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b5eaa9c4445244f938cddb96672cc99a
-      internalID: -652390758
+      spriteID: 09a7cef20030642a2aa2d76fa4069dbd
+      internalID: -849440704
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_28
+      name: Fall IdleNormalMap_28
       rect:
         serializedVersion: 2
-        x: 38
-        y: 310
-        width: 67
-        height: 115
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 300
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 20ee579cb40b74d8eb080041d2acbe36
-      internalID: -1145247126
+      spriteID: 2e5426c370ba1478db513de3006c5443
+      internalID: -1612067564
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_29
+      name: Fall IdleNormalMap_29
       rect:
         serializedVersion: 2
-        x: 191
-        y: 308
-        width: 62
-        height: 117
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 150
+        y: 300
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 236d28fba82b14426951fb225c9b39f3
-      internalID: 385106267
+      spriteID: 9c10ac2b72c0b4c2bb761b3727dca5ca
+      internalID: 1327726703
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_30
+      name: Fall IdleNormalMap_30
       rect:
         serializedVersion: 2
-        x: 343
-        y: 306
-        width: 58
-        height: 118
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 300
+        y: 300
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: acaa0759ae1ae4a16936565173cf4ce3
-      internalID: 1917584305
+      spriteID: 615b1aeea11464fd88d80f22a0758d12
+      internalID: 762719110
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_31
+      name: Fall IdleNormalMap_31
       rect:
         serializedVersion: 2
-        x: 496
-        y: 306
-        width: 52
-        height: 118
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 450
+        y: 300
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9acc9a481436a46c89e4b326de6a51b4
-      internalID: -1494842175
+      spriteID: 974e88285ecda4986a67c621e117aa73
+      internalID: 1602736560
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_32
+      name: Fall IdleNormalMap_32
       rect:
         serializedVersion: 2
-        x: 650
-        y: 306
-        width: 45
-        height: 117
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 600
+        y: 300
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ae9000662584646538f9ea84b714537e
-      internalID: 729204524
+      spriteID: acc92eb4fe6fd4b02b500b700e150712
+      internalID: -1382661409
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_33
+      name: Fall IdleNormalMap_33
       rect:
         serializedVersion: 2
-        x: 804
-        y: 306
-        width: 40
-        height: 116
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 750
+        y: 300
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e3cc32b7cce2f4d2da47df39aeeff0a6
-      internalID: -623025047
+      spriteID: 92627b37d7c634a7abebcbb81edf5530
+      internalID: -1071624405
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_34
+      name: Fall IdleNormalMap_34
       rect:
         serializedVersion: 2
-        x: 957
-        y: 306
-        width: 36
-        height: 116
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 900
+        y: 300
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5a8cfdfe7026e4e2b904be2517f6ee79
-      internalID: -676930496
+      spriteID: 47467166693484642bf5e0041ab308c4
+      internalID: 562365113
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_35
+      name: Fall IdleNormalMap_35
       rect:
         serializedVersion: 2
-        x: 60
-        y: 157
-        width: 33
-        height: 115
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 150
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3bc0b460447234ecebbb0a4b757d2fae
-      internalID: -1004384990
+      spriteID: 79cf95c38837a42d0a6df7aea50e2192
+      internalID: 481177313
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_36
+      name: Fall IdleNormalMap_36
       rect:
         serializedVersion: 2
-        x: 209
-        y: 157
-        width: 36
-        height: 115
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 150
+        y: 150
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2d78281935b034fba98f900eca2c3ada
-      internalID: 1655021471
+      spriteID: 3a6e8a2a44c6a4641ad77e1e9852eb91
+      internalID: -116783545
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_37
+      name: Fall IdleNormalMap_37
       rect:
         serializedVersion: 2
-        x: 355
-        y: 157
-        width: 42
-        height: 115
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 300
+        y: 150
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 92f1250f640fa4820a596edf25ada605
-      internalID: -433376135
+      spriteID: 2784dac799d2b49f0b24218739a2dd73
+      internalID: 725846856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fall IdleNormalMap_38
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 150
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b354ceae5da64a0ea8c5ad90fbde312
+      internalID: -1728263741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fall IdleNormalMap_39
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 150
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428e9a1701aa24a9686cbd0237df0265
+      internalID: 717439929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fall IdleNormalMap_40
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 150
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ca0b7eb532b45ebb774ecfed89ac0b
+      internalID: -1356388402
       vertices: []
       indices: 
       edges: []
@@ -912,44 +975,47 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Run_8: -1168451458
-      Run_17: 1275287709
-      Run_6: 832533734
-      Run_18: 674964297
-      Run_21: 474352797
-      Run_2: -869095523
-      Run_22: -1703363593
-      Run_12: 1156730588
-      Run_23: 1155950435
-      Run_35: -1004384990
-      Run_25: 525868624
-      Run_24: -1125076010
-      Run_11: 1886406893
-      Run_27: -652390758
-      Run_29: 385106267
-      Run_26: -1670786242
-      Run_14: -1062989371
-      Run_31: -1494842175
-      Run_16: 473972596
-      Run_13: 47745620
-      Run_1: 1776516113
-      Run_36: 1655021471
-      Run_30: 1917584305
-      Run_32: 729204524
-      Run_19: 500139139
-      Run_28: -1145247126
-      Run_15: 1715203167
-      Run_37: -433376135
-      Run_3: 137923701
-      Run_7: -1052847507
-      Run_4: -1699573005
-      Run_0: -1133207319
-      Run_33: -623025047
-      Run_10: -1223967460
-      Run_20: -2008096131
-      Run_9: 2081444097
-      Run_5: 937864116
-      Run_34: -676930496
+      Fall IdleNormalMap_24: -1388181943
+      Fall IdleNormalMap_28: -1612067564
+      Fall IdleNormalMap_30: 762719110
+      Fall IdleNormalMap_14: 1634157295
+      Fall IdleNormalMap_23: 1065155389
+      Fall IdleNormalMap_36: -116783545
+      Fall IdleNormalMap_16: 582903259
+      Fall IdleNormalMap_10: -1814006789
+      Fall IdleNormalMap_22: 1848820337
+      Fall IdleNormalMap_21: 103714719
+      Fall IdleNormalMap_6: -275689330
+      Fall IdleNormalMap_29: 1327726703
+      Fall IdleNormalMap_2: -366173382
+      Fall IdleNormalMap_13: 1724005624
+      Fall IdleNormalMap_37: 725846856
+      Fall IdleNormalMap_5: -2076058701
+      Fall IdleNormalMap_15: -421229845
+      Fall IdleNormalMap_31: 1602736560
+      Fall IdleNormalMap_35: 481177313
+      Fall IdleNormalMap_8: -1526661318
+      Fall IdleNormalMap_11: -1240964819
+      Fall IdleNormalMap_26: -815847321
+      Fall IdleNormalMap_0: 1254620815
+      Fall IdleNormalMap_12: 843302
+      Fall IdleNormalMap_1: 344661405
+      Fall IdleNormalMap_9: -127168233
+      Fall IdleNormalMap_4: 969193839
+      Fall IdleNormalMap_34: 562365113
+      Fall IdleNormalMap_19: -1383929321
+      Fall IdleNormalMap_33: -1071624405
+      Fall IdleNormalMap_3: 865721032
+      Fall IdleNormalMap_27: -849440704
+      Fall IdleNormalMap_38: -1728263741
+      Fall IdleNormalMap_32: -1382661409
+      Fall IdleNormalMap_7: -1207122357
+      Fall IdleNormalMap_20: -1219384529
+      Fall IdleNormalMap_17: 804106223
+      Fall IdleNormalMap_25: -371682343
+      Fall IdleNormalMap_18: -446896470
+      Fall IdleNormalMap_39: 717439929
+      Fall IdleNormalMap_40: -1356388402
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
