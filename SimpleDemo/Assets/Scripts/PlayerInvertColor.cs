@@ -6,7 +6,7 @@ using UnityEngine;
 public class PlayerInvertColor : MonoBehaviour
 {
     private SpriteRenderer sp;
-    private int changeRequest;
+    private float changeRequest = 0.25f;
     private static readonly int Threshold = Shader.PropertyToID("_Threshold");
 
     private void Start()

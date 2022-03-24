@@ -324,7 +324,6 @@ public class PlayerController : MonoBehaviour, IPlayerController
                 {
                     if (currentVerticalSpeed < 0) currentVerticalSpeed = 0;
                     var dir = transform.position - hit.transform.position;
-                    Debug.Log("1");
                     transform.position += dir.normalized * movement.magnitude;
                 }
                 

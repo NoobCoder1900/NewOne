@@ -5,7 +5,7 @@ Shader "Custom/Player/InvertColor"
         _MainTex("Diffuse", 2D) = "white" {}
         _MaskTex("Mask", 2D) = "white" {}
         _NormalMap("Normal Map", 2D) = "bump" {}
-        _Threshold ("Threshold", Float) = 0
+        _Threshold ("Threshold", Range(0, 1)) = 0
 
         // Legacy properties. They're here so that materials using this shader can gracefully fallback to the legacy sprite shader.
         [HideInInspector] _Color("Tint", Color) = (1,1,1,1)

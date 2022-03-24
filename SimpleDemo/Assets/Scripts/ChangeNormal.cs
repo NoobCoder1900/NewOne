@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerAnim : MonoBehaviour
+public class Change : MonoBehaviour
 {
     #region Component References
 
@@ -34,7 +34,6 @@ public class PlayerAnim : MonoBehaviour
     [SerializeField] private Texture jump;
     [SerializeField] private Texture fall;
     [SerializeField] private Texture land;
-    private static readonly int NormalMap = Shader.PropertyToID("_NormalMap");
 
     #endregion
 
@@ -100,7 +99,7 @@ public class PlayerAnim : MonoBehaviour
             ChangeAnimState(PlayerLanding);
         }
         
-        Debug.Log(currentMaterial.GetTexture(NormalMap).name);
+        Debug.Log(currentMaterial.GetTexture("_NormalMap").name);
     }
     
     private void ChangeAnimState(string nextAnim)
@@ -114,10 +113,10 @@ public class PlayerAnim : MonoBehaviour
 
     private void ChangeMaterialOfAnim(Texture nextNormal)
     {
-        if (currentMaterial.GetTexture(NormalMap).name == nextNormal.name) 
+        if (currentMaterial.GetTexture("_NormalMap").name == nextNormal.name) 
             return;
         else 
-            currentMaterial.SetTexture(NormalMap, nextNormal);
+            currentMaterial.SetTexture("_NormalMap", nextNormal);
     }
     
     
