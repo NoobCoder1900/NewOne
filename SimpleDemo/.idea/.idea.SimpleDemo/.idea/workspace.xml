@@ -8,6 +8,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InSideBlock.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../Demo素材库/MegaMan Player Controller/MegaMan_PlayerController_complete/Assets/PlayerScript.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -60,6 +61,7 @@
       <workItem from="1647969630327" duration="20585000" />
       <workItem from="1648034255276" duration="7658000" />
       <workItem from="1648041972469" duration="10046000" />
+      <workItem from="1648106920399" duration="11422000" />
     </task>
     <servers />
   </component>

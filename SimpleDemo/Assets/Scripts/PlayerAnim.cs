@@ -100,7 +100,7 @@ public class PlayerAnim : MonoBehaviour
             ChangeAnimState(PlayerLanding);
         }
         
-        Debug.Log(currentMaterial.GetTexture(NormalMap).name);
+        //Debug.Log(currentMaterial.GetTexture(NormalMap).name);
     }
     
     private void ChangeAnimState(string nextAnim)
