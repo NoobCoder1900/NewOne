@@ -1,6 +1,4 @@
-using System;
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerCore : MonoBehaviour
@@ -10,17 +8,18 @@ public class PlayerCore : MonoBehaviour
     public static PlayerCore instance;
     private SpriteRenderer sp;
     [SerializeField] private Transform playerRevivePos;
+
+    private Blocks[] blocks;
     
     #endregion
     
     // Invert Color
-    private float changeRequest = 0.25f;
+    public float changeRequest = 0.2f;
     private static readonly int Threshold = Shader.PropertyToID("_Threshold");
     
     // Fall to death height
     [SerializeField] private float deathHeight = -4.5f;
     
-
     public bool insideBlock;
 
     private void Awake()
@@ -39,55 +38,64 @@ public class PlayerCore : MonoBehaviour
     private void Start()
     {
         sp = GetComponentInChildren<SpriteRenderer>();
+        blocks = FindObjectsOfType<Blocks>();
     }
 
     private void Update()
     {
-        InvertColor();
-
-        FallToDeath();
-    }
-
-    /// <summary>
-    /// When "Space" is pressed, invert the color of material of player 
-    /// </summary>
-    private void InvertColor()
-    {
         if (Input.GetKeyDown(KeyCode.Space))
         {
+            
             if (insideBlock == false)
             {
-                changeRequest = 1 - changeRequest;
-                sp.material.SetFloat(Threshold, changeRequest);
+                InvertColor();
             }
-            else
+            if (insideBlock)
             {
-                Die();
+                InvertColor();
+                Debug.Log("挤死了");
+                PlayerDie();
             }
-        }
-    }
 
-    private void FallToDeath() 
-    {
-        if (transform.position.y <= deathHeight)
-        {
-            Die();
+            foreach (var block in blocks)
+            {
+                block.ChangeState();
+            }
+
         }
+        
+        
+        FallToDeath();
+        
     }
     
-    private void Die()
+
+    private void InvertColor()
     {
-        Debug.Log("YOU DIED");
-        sp.enabled = false;
-        StartCoroutine(Revive());
+        changeRequest = 1 - changeRequest;
+        sp.material.SetFloat(Threshold, changeRequest);
     }
 
-    IEnumerator  Revive()
+    private void PlayerDie()
+    {
+        sp.enabled = false;
+        StartCoroutine(PlayerRevive());
+    }
+
+    private IEnumerator PlayerRevive()
     {
         yield return new WaitForSeconds(1f);
         transform.position = playerRevivePos.position;
         sp.enabled = true;
-        GetComponentInChildren<Rigidbody2D>().velocity = Vector2.zero;
+    }
+    
+    private void FallToDeath()
+    {
+        if (transform.position.y < deathHeight)
+        {
+            Debug.Log("摔死了");
+            PlayerDie();
+        }
     }
     
     
