@@ -1,0 +1,1530 @@
+fileFormatVersion: 2
+guid: b1b60be1b7fa14b7d814c272c89e0215
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1104
+        width: 106
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f8e33c5bcc14aa9b42cfe173ee4844
+      internalID: -1948129260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1103
+        width: 106
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdcfc391b6284493ac5520861bf4af7
+      internalID: 1478117942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_2
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1101
+        width: 107
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2f4f9c379e048688ac8fb127975ff0
+      internalID: -984085523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_3
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1100
+        width: 106
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c70741d42934ee0bb8cdbad0e679ff
+      internalID: 1712013347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_4
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1098
+        width: 106
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc9d0b3346c54bb79daf41bfb8def8e
+      internalID: -740465507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_5
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1095
+        width: 106
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8720c82efc149329c674747e116480
+      internalID: 630749153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_6
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1092
+        width: 106
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b56bc596c9d64666a8b92b46266ce85
+      internalID: 747636230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_7
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1089
+        width: 105
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da9374f8f023401eab801e4ba8d535f
+      internalID: -1409075311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 935
+        width: 106
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ecffa23854c4f7893103651fb54188
+      internalID: -1962063969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_9
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 930
+        width: 105
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc6b7f0c62a34a189a7bf3ba0e5f30d
+      internalID: -1080974860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 924
+        width: 104
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48f639bf102340ccbb68e99040ba9ec
+      internalID: -473985057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_11
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 919
+        width: 104
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbacee13466c40bf87f0a4d6fbf8cb5
+      internalID: -507809255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_12
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 914
+        width: 102
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdd9e6b1bc7f459989f28036ed42401
+      internalID: 1315345091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_13
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 909
+        width: 102
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b139e0933f1d4ce6b81423ddadbe200
+      internalID: -1313080912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_14
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 904
+        width: 100
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ded56363bfe40b985ed0993c034112
+      internalID: -987366790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_15
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 901
+        width: 98
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f949721000c84955acd64812a02179d
+      internalID: 1097765363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_16
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 750
+        width: 96
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4784f88e2554aa8bb15ed15ce44d7a
+      internalID: 239460848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_17
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 750
+        width: 95
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8babd32ecb94a989c56dba2f090bb0
+      internalID: 35306069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_18
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 750
+        width: 93
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac824ceeaf634a4b8e45ff2f243027b
+      internalID: 1590261636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_19
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 750
+        width: 91
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d050857d59cf54dd28987809972f8da8
+      internalID: 841343183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_20
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 750
+        width: 89
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d226258bd129e4c57bd761ac5729a793
+      internalID: 324746274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_21
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 750
+        width: 87
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f117813b6ba354852a4d1ba2d14c90ed
+      internalID: 1360611834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_22
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 750
+        width: 85
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886dff24b2e734683b50998a777dc1e7
+      internalID: -703126861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_23
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 750
+        width: 84
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4badbbd2d724b36afad65ac4dc2427
+      internalID: -853154293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_24
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 600
+        width: 81
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0173788a875254ac594f376e49638e73
+      internalID: 1620012141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_25
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 600
+        width: 79
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc86c9ef800da4a61863a035e3aea3ef
+      internalID: 1732090476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_26
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 600
+        width: 77
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5417538b0d24c482c9f38ba0a3c75f33
+      internalID: -1467813577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_27
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 600
+        width: 76
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4916a54f18bc64164926bea267c6f3e4
+      internalID: -340150873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_28
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 600
+        width: 77
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6ec685df85d4a358d0dc96d6a5bd5b
+      internalID: -1165021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_29
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 600
+        width: 75
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cf6da88fb644a37b7c84bfb715b937
+      internalID: 184631522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_30
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 600
+        width: 76
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2bf232f2f4d446a943c046b7fe4a7e
+      internalID: 1737122113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_31
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 600
+        width: 74
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e945d60206064118979400f762ee1ae
+      internalID: -2041629795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_32
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 450
+        width: 74
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e711753c8064e69a2d711ad1b92f53
+      internalID: 220649383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_33
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 450
+        width: 73
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5d7ce8fb88645b2a00aae8aa5429ff
+      internalID: -1886930963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_34
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 450
+        width: 73
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6269408e752a347c485aa51f2c940944
+      internalID: -631517521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_35
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 450
+        width: 71
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257917b1ab0d74629a4e9d1b62d42f82
+      internalID: 1718238723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_36
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 450
+        width: 70
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7880848528d247d8a013d3b843aa12e
+      internalID: -2126137199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_37
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 450
+        width: 69
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47483e30a0f394a6d9746139e82c1400
+      internalID: -1236046079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_38
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 450
+        width: 68
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6238cd413e941a18005374cf01734b
+      internalID: -433185471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_39
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 450
+        width: 66
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3568d9410e96146468d19c848278ef1a
+      internalID: -128544223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_40
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 300
+        width: 65
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd795cb2d56541ada00fc3fd08505f7
+      internalID: 999346083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_41
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 300
+        width: 63
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289dab1fca0a74cc9b128259ec4cabf3
+      internalID: -501058027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_42
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 300
+        width: 62
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13309585d19cf4d7b95d6ffaa8d7e04a
+      internalID: -7686731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_43
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 300
+        width: 61
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988ed0f353f634a9a8d59aef3a62ca21
+      internalID: -1961962783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_44
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 300
+        width: 60
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a851bc4b1c9460abd08fa9d26decf7
+      internalID: -1593378542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_45
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 300
+        width: 60
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3951cce36b4642eb8b35bc6daf14c3b
+      internalID: 732272559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_46
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 300
+        width: 58
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7dd3d871627546759eb2eb46e24df34
+      internalID: -1803551217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_47
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 300
+        width: 58
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb49162ceccae40188312c9fa3301481
+      internalID: -1442384134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_48
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 150
+        width: 57
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e96b5c1ec684a309063579891476ed
+      internalID: 1390702750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_49
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 150
+        width: 57
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28563204d03af40f89fd002e5ee4fed6
+      internalID: -1041550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_50
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 150
+        width: 57
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d471d3c182e4896b38255552ebfcfb
+      internalID: -1216228292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_51
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 150
+        width: 56
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5de6d936aa7454080f6f6a508f6e64
+      internalID: 1121561480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_52
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 150
+        width: 56
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85d899c22cc645e0a7491127697ed8d
+      internalID: -74169753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_53
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 150
+        width: 56
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d5b31efab6c4a4ea096a2c1d8b8650
+      internalID: 106156288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_54
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 150
+        width: 55
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5627fc348f76742b98bfc8b67bf7b230
+      internalID: -1324045653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_55
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 150
+        width: 55
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fadffefc7764d598f3c09b65fe560b
+      internalID: -591875413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_56
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 55
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be10129ee38cb4be2922b29feadf2f4c
+      internalID: -685411603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_57
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 55
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c993ab92f91f2486e825c912d26b9f77
+      internalID: -1311148632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_58
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 55
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a94669b4c434810bdcddeb08dab7bf
+      internalID: 600269444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_59
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 55
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc274685666b1488f824477af4b20c9a
+      internalID: 225719197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_60
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 0
+        width: 55
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefe0d96e05c04272bd5adce70bbeff2
+      internalID: 1959487800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_61
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 55
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec507d1b777004047bd5234cfcc7835c
+      internalID: 1435245117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_62
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 0
+        width: 55
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e760b9f80885747eea772a547ee5d6bc
+      internalID: -792835865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpFallNormalMap_63
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 0
+        width: 55
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bff5ea318a94c548beb0139e638e91
+      internalID: -627755504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      OnlyJumpFallNormalMap_0: -1948129260
+      OnlyJumpFallNormalMap_48: 1390702750
+      OnlyJumpFallNormalMap_19: 841343183
+      OnlyJumpFallNormalMap_23: -853154293
+      OnlyJumpFallNormalMap_31: -2041629795
+      OnlyJumpFallNormalMap_50: -1216228292
+      OnlyJumpFallNormalMap_20: 324746274
+      OnlyJumpFallNormalMap_44: -1593378542
+      OnlyJumpFallNormalMap_14: -987366790
+      OnlyJumpFallNormalMap_58: 600269444
+      OnlyJumpFallNormalMap_40: 999346083
+      OnlyJumpFallNormalMap_32: 220649383
+      OnlyJumpFallNormalMap_13: -1313080912
+      OnlyJumpFallNormalMap_38: -433185471
+      OnlyJumpFallNormalMap_27: -340150873
+      OnlyJumpFallNormalMap_60: 1959487800
+      OnlyJumpFallNormalMap_41: -501058027
+      OnlyJumpFallNormalMap_22: -703126861
+      OnlyJumpFallNormalMap_37: -1236046079
+      OnlyJumpFallNormalMap_30: 1737122113
+      OnlyJumpFallNormalMap_16: 239460848
+      OnlyJumpFallNormalMap_54: -1324045653
+      OnlyJumpFallNormalMap_61: 1435245117
+      OnlyJumpFallNormalMap_53: 106156288
+      OnlyJumpFallNormalMap_11: -507809255
+      OnlyJumpFallNormalMap_47: -1442384134
+      OnlyJumpFallNormalMap_2: -984085523
+      OnlyJumpFallNormalMap_10: -473985057
+      OnlyJumpFallNormalMap_39: -128544223
+      OnlyJumpFallNormalMap_49: -1041550
+      OnlyJumpFallNormalMap_21: 1360611834
+      OnlyJumpFallNormalMap_5: 630749153
+      OnlyJumpFallNormalMap_4: -740465507
+      OnlyJumpFallNormalMap_51: 1121561480
+      OnlyJumpFallNormalMap_9: -1080974860
+      OnlyJumpFallNormalMap_43: -1961962783
+      OnlyJumpFallNormalMap_52: -74169753
+      OnlyJumpFallNormalMap_3: 1712013347
+      OnlyJumpFallNormalMap_6: 747636230
+      OnlyJumpFallNormalMap_15: 1097765363
+      OnlyJumpFallNormalMap_17: 35306069
+      OnlyJumpFallNormalMap_36: -2126137199
+      OnlyJumpFallNormalMap_8: -1962063969
+      OnlyJumpFallNormalMap_25: 1732090476
+      OnlyJumpFallNormalMap_24: 1620012141
+      OnlyJumpFallNormalMap_7: -1409075311
+      OnlyJumpFallNormalMap_18: 1590261636
+      OnlyJumpFallNormalMap_57: -1311148632
+      OnlyJumpFallNormalMap_28: -1165021
+      OnlyJumpFallNormalMap_12: 1315345091
+      OnlyJumpFallNormalMap_33: -1886930963
+      OnlyJumpFallNormalMap_45: 732272559
+      OnlyJumpFallNormalMap_62: -792835865
+      OnlyJumpFallNormalMap_63: -627755504
+      OnlyJumpFallNormalMap_46: -1803551217
+      OnlyJumpFallNormalMap_42: -7686731
+      OnlyJumpFallNormalMap_34: -631517521
+      OnlyJumpFallNormalMap_26: -1467813577
+      OnlyJumpFallNormalMap_35: 1718238723
+      OnlyJumpFallNormalMap_55: -591875413
+      OnlyJumpFallNormalMap_1: 1478117942
+      OnlyJumpFallNormalMap_56: -685411603
+      OnlyJumpFallNormalMap_59: 225719197
+      OnlyJumpFallNormalMap_29: 184631522
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

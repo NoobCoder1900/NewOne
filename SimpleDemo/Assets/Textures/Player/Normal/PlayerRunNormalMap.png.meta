@@ -1,0 +1,958 @@
+fileFormatVersion: 2
+guid: a2efb6ad93e2c48d89198e227be3bd5c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayerRunNormalMap_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 901
+        width: 42
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93209f05f133343df9a3526e442f11e1
+      internalID: -547418611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerRunNormalMap_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 901
+        width: 47
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0745287c4133140e89261d847e8bccb1
+      internalID: -182446405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerRunNormalMap_2
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 902
+        width: 49
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecce1c926eb144761a8701d25327e209
+      internalID: 691020424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerRunNormalMap_3
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 902
+        width: 51
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2a0f50993ef49cdb8f3645c3d0fc6c
+      internalID: 1967481943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerRunNormalMap_4
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 904
+        width: 52
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c8e037bb4d447a68314a8ea2176ce3
+      internalID: 1978216285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerRunNormalMap_5
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 904
+        width: 55
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec1e32f1332c466e864f4ffa8f46f2c
+      internalID: 628377597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerRunNormalMap_6
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 904
+        width: 59
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b927274e543433991dc0ab230dc991
+      internalID: 1492548490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerRunNormalMap_7
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 753
+        width: 62
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab08a4877a37453584183a2a28a0e42
+      internalID: -1498557861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerRunNormalMap_8
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 752
+        width: 63
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99be9145f5e5a434fb76e56bf18d3362
+      internalID: 1007159446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerRunNormalMap_9
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 751
+        width: 62
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237b12e874c364232bda11fbda1af3f2
+      internalID: 890419378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerRunNormalMap_10
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 750
+        width: 60
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e8e8546ea964d15916f1892d3a45cb
+      internalID: -440496471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerRunNormalMap_11
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 750
+        width: 54
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863f53dec495449099eafbeee8e770b5
+      internalID: -512361529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerRunNormalMap_12
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 750
+        width: 52
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca970f0c38214ff5b0fc1cf31aaa250
+      internalID: -1514829335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerRunNormalMap_13
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 750
+        width: 52
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35374cbbc83744509be7914276e23c9d
+      internalID: -1586397591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerRunNormalMap_14
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 600
+        width: 50
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5baa0000807842118237cf63bb7f527
+      internalID: 1686296304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerRunNormalMap_15
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 600
+        width: 49
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377b1a99874f4412cb5b519652b5fb5c
+      internalID: -856973194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerRunNormalMap_16
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 601
+        width: 53
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334b48ee9c0e94bbab290af7acd71ef3
+      internalID: -875937274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerRunNormalMap_17
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 601
+        width: 56
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58848f034fb874cfc9b40bd01b8a9383
+      internalID: -1814061192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerRunNormalMap_18
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 601
+        width: 59
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc05587b73a874b20b500bbfb7f6fe68
+      internalID: -326134779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerRunNormalMap_19
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 602
+        width: 58
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcb808002ffc4ab1866b0eb8a3e67a7
+      internalID: -1117712949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerRunNormalMap_20
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 602
+        width: 57
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0612b480390414ade98b491137c37c16
+      internalID: -3395898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerRunNormalMap_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 453
+        width: 56
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9a1f0f72b6d42e7b903c9bc82f6924
+      internalID: 339631402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerRunNormalMap_22
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 455
+        width: 57
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80efecfeba9fe410495c76b7b9af1016
+      internalID: 357296716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerRunNormalMap_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 454
+        width: 58
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19d3f4c5eb604962b7fe03fbdc0fb9d
+      internalID: 484828224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerRunNormalMap_24
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 453
+        width: 58
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3c9320658e241148420f7183d77bc2
+      internalID: 345592642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerRunNormalMap_25
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 454
+        width: 60
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4b4494e8b9c4fe8bdfc4dd844f77ff
+      internalID: -1739056001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerRunNormalMap_26
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 453
+        width: 59
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b420652d97433449da728360dd07071a
+      internalID: 1219028906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerRunNormalMap_27
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 452
+        width: 60
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186a85f7847d4479c9fde628cc6c4fd1
+      internalID: -2018539339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerRunNormalMap_28
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 303
+        width: 60
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb94971262464ba887f3635bb58ccfe
+      internalID: 1352258034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerRunNormalMap_29
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 301
+        width: 55
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83e86e899738415dac7eb9270367dbb
+      internalID: 263911870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerRunNormalMap_30
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 300
+        width: 51
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f41fd7463cd4dcaaf1d6d01ee0fea3
+      internalID: -2019527516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerRunNormalMap_31
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 300
+        width: 45
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beceaf8dd73d74fcfa2850ca5ffbce92
+      internalID: 1817287924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerRunNormalMap_32
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 300
+        width: 40
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4d43ebe23eb4cfebbc309b0f04513d
+      internalID: 1572419557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerRunNormalMap_33
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 300
+        width: 35
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d577c7a46d9404c8a427c843f14a6a
+      internalID: 994585447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerRunNormalMap_34
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 300
+        width: 32
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c0afc3191f341418a23c8895e798f4
+      internalID: -1550811871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerRunNormalMap_35
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 150
+        width: 29
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2dc309de1d92494ba4a373eb75b4771
+      internalID: -1976278479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerRunNormalMap_36
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 150
+        width: 32
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1b49624b6fb486284239ec2ab46f0d
+      internalID: -254791950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerRunNormalMap_37
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 151
+        width: 37
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d2a5dcdbf81468fa152ae309cb35a3
+      internalID: 108825781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PlayerRunNormalMap_31: 1817287924
+      PlayerRunNormalMap_14: 1686296304
+      PlayerRunNormalMap_15: -856973194
+      PlayerRunNormalMap_35: -1976278479
+      PlayerRunNormalMap_2: 691020424
+      PlayerRunNormalMap_4: 1978216285
+      PlayerRunNormalMap_22: 357296716
+      PlayerRunNormalMap_23: 484828224
+      PlayerRunNormalMap_37: 108825781
+      PlayerRunNormalMap_12: -1514829335
+      PlayerRunNormalMap_1: -182446405
+      PlayerRunNormalMap_16: -875937274
+      PlayerRunNormalMap_24: 345592642
+      PlayerRunNormalMap_32: 1572419557
+      PlayerRunNormalMap_3: 1967481943
+      PlayerRunNormalMap_28: 1352258034
+      PlayerRunNormalMap_10: -440496471
+      PlayerRunNormalMap_18: -326134779
+      PlayerRunNormalMap_21: 339631402
+      PlayerRunNormalMap_11: -512361529
+      PlayerRunNormalMap_6: 1492548490
+      PlayerRunNormalMap_13: -1586397591
+      PlayerRunNormalMap_26: 1219028906
+      PlayerRunNormalMap_34: -1550811871
+      PlayerRunNormalMap_20: -3395898
+      PlayerRunNormalMap_25: -1739056001
+      PlayerRunNormalMap_0: -547418611
+      PlayerRunNormalMap_17: -1814061192
+      PlayerRunNormalMap_9: 890419378
+      PlayerRunNormalMap_8: 1007159446
+      PlayerRunNormalMap_29: 263911870
+      PlayerRunNormalMap_27: -2018539339
+      PlayerRunNormalMap_19: -1117712949
+      PlayerRunNormalMap_30: -2019527516
+      PlayerRunNormalMap_33: 994585447
+      PlayerRunNormalMap_5: 628377597
+      PlayerRunNormalMap_7: -1498557861
+      PlayerRunNormalMap_36: -254791950
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

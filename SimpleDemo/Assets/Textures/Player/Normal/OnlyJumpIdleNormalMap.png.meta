@@ -1,0 +1,1024 @@
+fileFormatVersion: 2
+guid: 0485d451bf9c64379830ffadcaf4d43c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OnlyJumpIdleNormalMap_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 914
+        width: 104
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882643666b2cc4f5a8b37bd791eb50bc
+      internalID: -721911867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpIdleNormalMap_1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 914
+        width: 103
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07a23222dee845f69b9b0ea07bdce2c
+      internalID: 262730640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpIdleNormalMap_2
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 914
+        width: 103
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cd5e2aa01bc4c6e88f009edd8de5b1
+      internalID: 1557376857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpIdleNormalMap_3
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 914
+        width: 103
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27075778468e04fa4bb8785853e77a53
+      internalID: 416777167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpIdleNormalMap_4
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 914
+        width: 103
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed72ba94f89bf4553861993aabb1c9ca
+      internalID: 684920068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpIdleNormalMap_5
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 914
+        width: 103
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5a3b49a73c74e05804ef3f784dd376
+      internalID: 1051252150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpIdleNormalMap_6
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 914
+        width: 103
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52fb8ec542734555b6ed611c5fbd37b
+      internalID: -1840369805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpIdleNormalMap_7
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 764
+        width: 103
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6919a1be7afa54d75956dff0df80220d
+      internalID: 797724621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpIdleNormalMap_8
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 765
+        width: 103
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb11059b0c0ea4caf9984b4a3ebd5bb4
+      internalID: -1592322658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpIdleNormalMap_9
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 765
+        width: 103
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3685ac8523de48e1b7735bf94d36427
+      internalID: 1191927131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpIdleNormalMap_10
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 765
+        width: 103
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976ab0f88f5d840e49a71edc0cd43ccf
+      internalID: 445101961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpIdleNormalMap_11
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 765
+        width: 103
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43384a82a649d45e1ad6d87dbae4f9c3
+      internalID: -301026624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpIdleNormalMap_12
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 765
+        width: 102
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9a9d9390c6f4cc58bc7da07470c212
+      internalID: 1140770428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpIdleNormalMap_13
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 765
+        width: 102
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e0294031e28468592619d6ba802eef
+      internalID: 628623152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpIdleNormalMap_14
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 615
+        width: 103
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156d98f5a2e294bc2b48a4899409192b
+      internalID: 272675820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpIdleNormalMap_15
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 615
+        width: 102
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4aa8a0eae8a49ef8465684d4d9adb3
+      internalID: -1336757803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpIdleNormalMap_16
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 615
+        width: 102
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6641ef303ed54472b8f3c1989d0d2442
+      internalID: -1331852765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpIdleNormalMap_17
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 615
+        width: 102
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193a2f8b4480d490e8714b7bb39f26e7
+      internalID: -1958761228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpIdleNormalMap_18
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 615
+        width: 102
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3c9902e36ed45a2a13867874dbc89d
+      internalID: 54872564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpIdleNormalMap_19
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 615
+        width: 102
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157ad10a0bcb347679ddfdaa03d18ac3
+      internalID: 759576822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpIdleNormalMap_20
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 615
+        width: 102
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6a29673cc774a04be84bfad62e6504
+      internalID: 140495579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpIdleNormalMap_21
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 465
+        width: 102
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a564f7228e845dca171ebf9b293dcb
+      internalID: 1194885986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpIdleNormalMap_22
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 465
+        width: 102
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0415e9e41b1f4ac28e5e0961a3eebf5
+      internalID: 750479043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpIdleNormalMap_23
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 465
+        width: 102
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3be6932fa2b4acbb912ffa8d4838ef
+      internalID: 1560350790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpIdleNormalMap_24
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 465
+        width: 102
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29f4dabd2f95408ebdb1ad15ebba714
+      internalID: 1405706183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpIdleNormalMap_25
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 465
+        width: 102
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056c43440d88543cf827c755a637ba1f
+      internalID: 1285358825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpIdleNormalMap_26
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 465
+        width: 102
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc571aee5a6c45b4ba558ff46e91df5
+      internalID: -1663724593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpIdleNormalMap_27
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 465
+        width: 102
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c3efac967de4ad1bcfb7b5f9accafc
+      internalID: 724002875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpIdleNormalMap_28
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 315
+        width: 102
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90abdcf1b13574047b5c2d078ddfba67
+      internalID: -1772307339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpIdleNormalMap_29
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 315
+        width: 102
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1f6439abb544f15aba0f4db503f05f
+      internalID: 1034145991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpIdleNormalMap_30
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 315
+        width: 102
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f753df70c5a4011ac7a337ab5365ae
+      internalID: 1129400823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpIdleNormalMap_31
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 315
+        width: 102
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ab7c129eaf741669a822d74d220e3a
+      internalID: -715361709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpIdleNormalMap_32
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 315
+        width: 102
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e953100a98de541ea988cd40925df80c
+      internalID: 1786219308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpIdleNormalMap_33
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 315
+        width: 102
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e18fa590ff8b4eb5a3b0a111cb56553
+      internalID: -1263299561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpIdleNormalMap_34
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 314
+        width: 102
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19217655d5ff45de8a841816c5df04d
+      internalID: -771761204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpIdleNormalMap_35
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 164
+        width: 102
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb2808569a944a0797dcf6534be0506
+      internalID: 710094312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpIdleNormalMap_36
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 164
+        width: 102
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e39d753cec44031ba629ec4e2a241a
+      internalID: 2047235580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpIdleNormalMap_37
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 164
+        width: 102
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f8b5b32f23f4620886ee6b232f8ec9
+      internalID: -1580215043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpIdleNormalMap_38
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 164
+        width: 102
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a48d8626a81042428225134bb4d44fa
+      internalID: -826514387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpIdleNormalMap_39
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 164
+        width: 102
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d90fcdc207a4718a5bfac7cd637ee9
+      internalID: -1989902437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpIdleNormalMap_40
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 164
+        width: 103
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf700dfe58f445c091be7eac1089042
+      internalID: -1503500146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      OnlyJumpIdleNormalMap_26: -1663724593
+      OnlyJumpIdleNormalMap_38: -826514387
+      OnlyJumpIdleNormalMap_18: 54872564
+      OnlyJumpIdleNormalMap_19: 759576822
+      OnlyJumpIdleNormalMap_24: 1405706183
+      OnlyJumpIdleNormalMap_1: 262730640
+      OnlyJumpIdleNormalMap_33: -1263299561
+      OnlyJumpIdleNormalMap_9: 1191927131
+      OnlyJumpIdleNormalMap_22: 750479043
+      OnlyJumpIdleNormalMap_17: -1958761228
+      OnlyJumpIdleNormalMap_16: -1331852765
+      OnlyJumpIdleNormalMap_12: 1140770428
+      OnlyJumpIdleNormalMap_6: -1840369805
+      OnlyJumpIdleNormalMap_11: -301026624
+      OnlyJumpIdleNormalMap_27: 724002875
+      OnlyJumpIdleNormalMap_5: 1051252150
+      OnlyJumpIdleNormalMap_25: 1285358825
+      OnlyJumpIdleNormalMap_21: 1194885986
+      OnlyJumpIdleNormalMap_20: 140495579
+      OnlyJumpIdleNormalMap_13: 628623152
+      OnlyJumpIdleNormalMap_34: -771761204
+      OnlyJumpIdleNormalMap_36: 2047235580
+      OnlyJumpIdleNormalMap_39: -1989902437
+      OnlyJumpIdleNormalMap_37: -1580215043
+      OnlyJumpIdleNormalMap_15: -1336757803
+      OnlyJumpIdleNormalMap_31: -715361709
+      OnlyJumpIdleNormalMap_8: -1592322658
+      OnlyJumpIdleNormalMap_32: 1786219308
+      OnlyJumpIdleNormalMap_23: 1560350790
+      OnlyJumpIdleNormalMap_2: 1557376857
+      OnlyJumpIdleNormalMap_14: 272675820
+      OnlyJumpIdleNormalMap_30: 1129400823
+      OnlyJumpIdleNormalMap_35: 710094312
+      OnlyJumpIdleNormalMap_4: 684920068
+      OnlyJumpIdleNormalMap_28: -1772307339
+      OnlyJumpIdleNormalMap_7: 797724621
+      OnlyJumpIdleNormalMap_40: -1503500146
+      OnlyJumpIdleNormalMap_0: -721911867
+      OnlyJumpIdleNormalMap_10: 445101961
+      OnlyJumpIdleNormalMap_29: 1034145991
+      OnlyJumpIdleNormalMap_3: 416777167
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

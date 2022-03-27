@@ -390,7 +390,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &277203716
 SpriteRenderer:
@@ -616,7 +616,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &562519565
 GameObject:
@@ -648,7 +648,7 @@ Transform:
   m_Children:
   - {fileID: 1838132423}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &619394800
 GameObject:
@@ -1085,7 +1085,7 @@ Transform:
   - {fileID: 1689413053}
   - {fileID: 62855540}
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1689413051
 GameObject:
@@ -1411,11 +1411,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 1512506763562536723, guid: dd7d04743a796461aa4b402f56c59519, type: 3}
   m_PrefabInstance: {fileID: 1512506763306400016}
   m_PrefabAsset: {fileID: 0}
---- !u!4 &2111329441 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 7578620032204446809, guid: 5c1ac3fec52714ccea3a65f56a55a8ac, type: 3}
-  m_PrefabInstance: {fileID: 7578620033539998460}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1512506763306400016
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1537,6 +1532,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 354310316778531615, guid: 5c1ac3fec52714ccea3a65f56a55a8ac, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 354310316778531615, guid: 5c1ac3fec52714ccea3a65f56a55a8ac, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.13
+      objectReference: {fileID: 0}
     - target: {fileID: 7578620032204446804, guid: 5c1ac3fec52714ccea3a65f56a55a8ac, type: 3}
       propertyPath: playerRevivePos
       value: 
@@ -1601,7 +1604,7 @@ PrefabInstance:
     - target: {fileID: 9162424338047905332, guid: ed337c8e03b99417a97bef63df251cab, type: 3}
       propertyPath: m_Follow
       value: 
-      objectReference: {fileID: 2111329441}
+      objectReference: {fileID: 0}
     - target: {fileID: 9162424339917030924, guid: ed337c8e03b99417a97bef63df251cab, type: 3}
       propertyPath: m_Name
       value: Camera
