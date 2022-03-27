@@ -214,9 +214,9 @@ MonoBehaviour:
   deceleration: 55
   moveClamp: 6
   apexBonus: 1
-  fallClamp: -15
-  minFallSpeed: 10
-  maxFallSpeed: 20
+  fallClamp: -5
+  minFallSpeed: 3
+  maxFallSpeed: 7
   jumpHeight: 5
   jumpApexThreshold: 5
   coyoteTimeThreshold: 0.8
@@ -254,6 +254,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerRevivePos: {fileID: 0}
-  camera: {fileID: 0}
+  changeRequest: 0.2
   deathHeight: -4.5
   insideBlock: 0

@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 150
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -12716,13 +12716,12 @@ TextureImporter:
     - texture: {fileID: 2800000, guid: 906deb77c127c4db5a85669f92325e17, type: 3}
       name: _NormalMap
     nameFileIdTable:
-      Idle_350: -1336712761
+      Idle_44: 1211982633
       Idle_275: -1690430295
       Idle_121: -1211360152
       Idle_28: -2018100496
       Idle_415: 596791649
       Idle_136: -907878031
-      Idle_214: -953178327
       Idle_135: 980885618
       Idle_67: -1174065865
       Idle_22: -951466246
@@ -12747,6 +12746,7 @@ TextureImporter:
       Idle_216: 1214300144
       Idle_495: 611410799
       Idle_476: 995447139
+      Idle_57: 664002076
       Idle_588: 891692561
       Idle_468: 1976804768
       Idle_148: -1667881991
@@ -13306,15 +13306,15 @@ TextureImporter:
       Idle_60: 1781612477
       Idle_110: -707194226
       Idle_433: -61010472
-      Idle_597: 1547020143
-      Idle_157: -622912491
-      Idle_528: 1868278289
-      Idle_545: -796490241
-      Idle_44: 1211982633
-      Idle_485: 882472116
       Idle_523: -662864172
+      Idle_597: 1547020143
+      Idle_528: 1868278289
+      Idle_157: -622912491
+      Idle_545: -796490241
+      Idle_485: 882472116
       Idle_548: 1635669486
-      Idle_57: 664002076
+      Idle_214: -953178327
+      Idle_350: -1336712761
       Idle_272: -1484022428
   spritePackingTag: 
   pSDRemoveMatte: 0

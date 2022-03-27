@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 150
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -975,7 +975,6 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Fall Idle_36: -1577367471
       Fall Idle_4: 1264170886
       Fall Idle_18: 1739857488
       Fall Idle_21: -1597697108
@@ -1012,6 +1011,7 @@ TextureImporter:
       Fall Idle_15: -2069260762
       Fall Idle_19: -2071291871
       Fall Idle_8: 622341952
+      Fall Idle_36: -1577367471
       Fall Idle_35: -530437135
       Fall Idle_30: -175637812
       Fall Idle_28: 1637040574

@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 150
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -2644,7 +2644,6 @@ TextureImporter:
       Hard Land_114: -1252959044
       Hard Land_105: -978947180
       Hard Land_79: -1873322660
-      Hard Land_106: -1720711032
       Hard Land_14: 793098138
       Hard Land_4: -1771027233
       Hard Land_11: -1615470707
@@ -2751,6 +2750,7 @@ TextureImporter:
       Hard Land_36: -642668534
       Hard Land_115: -775470976
       Hard Land_117: -1613391218
+      Hard Land_106: -1720711032
       Hard Land_75: 131843982
       Hard Land_30: -1838309267
       Hard Land_64: -276917528

@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 150
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -1188,10 +1188,10 @@ TextureImporter:
       Jump Up_3: 1006701869
       Jump Up_13: -1297503494
       Jump Up_5: 1715911281
-      Jump Up_22: -1953841985
       Jump Up_46: 238859625
       Jump Up_2: -39132058
       Jump Up_35: -2014111857
+      Jump Up_22: -1953841985
       Jump Up_25: -2129339
       Jump Up_19: 716534495
       Jump Up_6: -394601383

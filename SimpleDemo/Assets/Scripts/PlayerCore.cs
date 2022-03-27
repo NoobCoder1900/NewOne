@@ -14,7 +14,7 @@ public class PlayerCore : MonoBehaviour
     #endregion
     
     // Invert Color
-    public float changeRequest = 0.2f;
+    public float changeRequest = 0.05f;
     private static readonly int Threshold = Shader.PropertyToID("_Threshold");
     
     // Fall to death height

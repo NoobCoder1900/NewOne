@@ -9,7 +9,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InSideBlock.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../Demo素材库/MegaMan Player Controller/MegaMan_PlayerController_complete/Assets/PlayerScript.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Movement.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -62,7 +62,8 @@
       <workItem from="1648034255276" duration="7658000" />
       <workItem from="1648041972469" duration="10046000" />
       <workItem from="1648106920399" duration="18650000" />
-      <workItem from="1648207671951" duration="8236000" />
+      <workItem from="1648207671951" duration="8858000" />
+      <workItem from="1648307183370" duration="2660000" />
     </task>
     <servers />
   </component>
