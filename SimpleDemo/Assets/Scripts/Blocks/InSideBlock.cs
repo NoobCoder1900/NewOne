@@ -8,7 +8,6 @@ public class InSideBlock : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Player"))
         {
-            Debug.Log("在砖块里");
             PlayerCore.instance.insideBlock = true;
         }
     }
@@ -17,7 +16,6 @@ public class InSideBlock : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Player"))
         {
-            Debug.Log("从砖块出来了");
             PlayerCore.instance.insideBlock = false;
         }
     }

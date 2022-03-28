@@ -100,8 +100,6 @@ MonoBehaviour:
   texIdle: {fileID: 2800000, guid: 938bcc76ece9045db931a9bb0189c255, type: 3}
   texRun: {fileID: 2800000, guid: a2efb6ad93e2c48d89198e227be3bd5c, type: 3}
   texJumpUp: {fileID: 2800000, guid: 29bb3b9323c6d4c42bba19ee6de03078, type: 3}
-  texJumpIdle: {fileID: 2800000, guid: ea2614e5369a146f19907c51bdc727bc, type: 3}
-  texJumpFall: {fileID: 2800000, guid: 15ef5abb3607b489f9a3e0378dad9c50, type: 3}
   texOnlyJumpUp: {fileID: 2800000, guid: b2760ec0c99a04d0695afeb3f3529842, type: 3}
   texOnlyJumpIdle: {fileID: 2800000, guid: 0485d451bf9c64379830ffadcaf4d43c, type: 3}
   texOnlyJumpFall: {fileID: 2800000, guid: 114692132c0d343a28fc19aa6f2e6d30, type: 3}
@@ -180,7 +178,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1557636071
   m_SortingLayer: 2
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: -345028166, guid: d0eb9c321a7ee4abb9ef286c3c6e6408, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0

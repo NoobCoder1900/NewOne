@@ -14,17 +14,13 @@ public class PlayerAnim : MonoBehaviour
     private const string animIdle = "Idle";
     private const string animRun = "Run";
     private const string animJumpUp = "JumpUp";
-    private const string animJumpIdle = "]umpIdle";
-    private const string animJumpFall = "JumpFall";
     private const string animOnlyJumpUp = "OnlyJumpUp";
-    private const string animOnlyJumpIdle = "Only]umpIdle";
+    private const string animOnlyJumpIdle = "OnlyJumpIdle";
     private const string animOnlyJumpFall = "OnlyJumpFall";
 
     [SerializeField] private Texture texIdle;
     [SerializeField] private Texture texRun;
     [SerializeField] private Texture texJumpUp;
-    [SerializeField] private Texture texJumpIdle;
-    [SerializeField] private Texture texJumpFall;
     [SerializeField] private Texture texOnlyJumpUp;
     [SerializeField] private Texture texOnlyJumpIdle;
     [SerializeField] private Texture texOnlyJumpFall;
@@ -52,8 +48,8 @@ public class PlayerAnim : MonoBehaviour
 
         MapAnimAndMaterial();
 
-       // Debug.Log(player.Grounded);
     }
+    
 
     private void Animation()
     {
@@ -119,12 +115,6 @@ public class PlayerAnim : MonoBehaviour
         
         if (animator.GetCurrentAnimatorStateInfo(0).IsName(animJumpUp))
             ChangeMaterialOfAnim(texJumpUp);
-
-        if (animator.GetCurrentAnimatorStateInfo(0).IsName(animJumpIdle))
-            ChangeMaterialOfAnim(texJumpIdle);
-
-        if (animator.GetCurrentAnimatorStateInfo(0).IsName(animJumpFall))
-            ChangeMaterialOfAnim(texJumpFall);
 
         if (animator.GetCurrentAnimatorStateInfo(0).IsName(animOnlyJumpUp))
             ChangeMaterialOfAnim(texOnlyJumpUp);
