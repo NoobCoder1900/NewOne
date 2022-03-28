@@ -14,8 +14,11 @@ public class PlayerCore : MonoBehaviour
     #endregion
     
     // Invert Color
-    public float changeRequest = 0.05f;
+    private float changeRequest = 0.05f;
     private static readonly int Threshold = Shader.PropertyToID("_Threshold");
+    
+    //这个变量传递给Block.cs，用于让砖块根据玩家颜色切换碰撞体的开关
+    public bool blackOrNot;
     
     // Fall to death height
     [SerializeField] private float deathHeight = -4.5f;
@@ -72,6 +75,7 @@ public class PlayerCore : MonoBehaviour
 
     private void InvertColor()
     {
+        blackOrNot = !blackOrNot;
         changeRequest = 1 - changeRequest;
         sp.material.SetFloat(Threshold, changeRequest);
     }
