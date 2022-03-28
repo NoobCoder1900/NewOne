@@ -11,9 +11,14 @@ public class StartLevelPlayerController : MonoBehaviour
     [SerializeField] private float deceleration;
     private const float velocityPow = 0.9f;
 
-    private readonly Vector3 left = new Vector3(-1, 1, 1);
-    private readonly Vector3 right = new Vector3(1, 1, 1);
+    public bool canMove = true; 
 
+    private bool active;
+    private void Awake() => Invoke(nameof(Activate), 1f);
+    private void Activate() => active = true;
+
+    private bool inputToStart;
+    
     private void Start()
     {
         TryGetComponent(out rb);
@@ -22,22 +27,19 @@ public class StartLevelPlayerController : MonoBehaviour
 
     private void Update()
     {
+        if (!active) return;
+
         moveInput = Input.GetAxisRaw("Horizontal");
+
+        Flip();
         
-        
-        if (moveInput != 0)
-            transform.localScale = (moveInput > 0) ? right : left;
-        
-        if (rb.velocity != Vector2.zero)
-            animator.Play("PlayerWalkSL");
-        else 
-            animator.Play("PlayerIdleSL");
-        
-        
+        SetAnim();
     }
 
     private void FixedUpdate()
     {
+        if (!canMove) return;
+        
         float targetSpeed = moveInput * moveSpeed;
         float speedDiff = targetSpeed - rb.velocity.x;
         float accelRate = (Mathf.Abs(targetSpeed) > 0.01f) ? acceleration : deceleration;
@@ -45,5 +47,25 @@ public class StartLevelPlayerController : MonoBehaviour
         
         rb.AddForce(movement * Vector2.right);
 
+    }
+
+    private void Flip()
+    {
+        if (!canMove) return;
+        
+        if (moveInput != 0)
+            transform.localScale = (moveInput > 0) ? new Vector3(1, 1, 1) : new Vector3(-1, 1, 1);
+
+    }
+
+    private void SetAnim()
+    {
+        if (rb.velocity != Vector2.zero)
+        {
+            animator.Play("Walk");
+            inputToStart = true;
+        }
+        if (inputToStart && rb.velocity == Vector2.zero)
+            animator.Play("Idle");
     }
 }

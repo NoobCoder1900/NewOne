@@ -1,0 +1,1464 @@
+fileFormatVersion: 2
+guid: d2f51b888f27c43a78e8e2794320c2c1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1050
+        width: 41
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e566cb765a1f4efba6ca31d306c138c
+      internalID: 668800842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_1
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1050
+        width: 40
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f7d72d4df5e4e888a82fd3e46c34cd
+      internalID: 1472161810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_2
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1050
+        width: 38
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6080fbf7092974087b297c5a4e57759b
+      internalID: -474862759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_3
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1050
+        width: 36
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3be4afa5dfb482c85160882e942ef1
+      internalID: -53693916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_4
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1050
+        width: 35
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3255533494e2d43b580876bfcf76e10c
+      internalID: 1982797547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_5
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1050
+        width: 38
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6e5648309be4f87bd2af1ef222729b
+      internalID: -1693837766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_6
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1050
+        width: 40
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a652cebaa906846dba2a00bb8b76b6a8
+      internalID: 76812719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_7
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1050
+        width: 42
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db951f06c688047ed90c4721571d51d8
+      internalID: 1457553801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_8
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 900
+        width: 44
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b26b5c61813c47d788627cd941c5f31
+      internalID: -960600766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_9
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 900
+        width: 47
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d256f8c145147b98f54add9a8b4d3f
+      internalID: 1298564256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_10
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 900
+        width: 49
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e566de9763954202958de54295baa2f
+      internalID: -973299458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_11
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 900
+        width: 52
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc606cb1470a4bc8a9868d2f4b251fa
+      internalID: -83725174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_12
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 901
+        width: 53
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04e02670b06a4acba0ea0fe9604f4af
+      internalID: 574764868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_13
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 901
+        width: 54
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abeaf841832b4c6190c0998d62cd34d
+      internalID: -2111804499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_14
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 901
+        width: 55
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edad1bab0c1d2470194e8d12279a8f31
+      internalID: 1031609377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_15
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 901
+        width: 55
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58a1fa4ecac44cc79ac328fea201224
+      internalID: 1994555832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_16
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 751
+        width: 55
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e48aa919fdf4ea8a9ae525f96e68db
+      internalID: -1165873220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 750
+        width: 55
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baee0188923c740a0b0c24e964dff3d2
+      internalID: 301893536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_18
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 750
+        width: 55
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0a9d76332f34d9abfec4aec42773c3
+      internalID: 38929122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_19
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 750
+        width: 54
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70065547f8724774b92975b262c6bc7
+      internalID: 1872589651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_20
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 750
+        width: 53
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c4c35daf7b84a99bac8cf2804af9b6
+      internalID: 445931375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_21
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 750
+        width: 52
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e72582f83a34ff0924c14648c77489
+      internalID: -721744076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_22
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 750
+        width: 50
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3417443194d36422faedf8f15dde69c9
+      internalID: 1129265776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_23
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 750
+        width: 49
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2ec9371f343446b9316edf4eeb3507
+      internalID: 2094492770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_24
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 600
+        width: 47
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f89c5d811844965880ad3dcf69506f
+      internalID: 127704778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_25
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 600
+        width: 45
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3e18de017b741828d46b336cacd58a
+      internalID: 1977150003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_26
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 600
+        width: 41
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3c45081aafa4a87a1276d7c6f6c042
+      internalID: 1979762157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_27
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 600
+        width: 38
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3733d07edd88e4a51b1e9853f6a6a8ce
+      internalID: 1954743800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_28
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 600
+        width: 35
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4436782b6ad4736946e0cbfa0197b0
+      internalID: 1624937375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_29
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 600
+        width: 32
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30c723630b174646a157fc572602d21
+      internalID: 991914488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_30
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 600
+        width: 31
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820b2d764268342caab60fdae17ce3b2
+      internalID: -2109660032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_31
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 600
+        width: 33
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d4baeed5403480787af07f4cd2d97b
+      internalID: 822904688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_32
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 450
+        width: 33
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3424321b497db4edbbdc72781a82f0c9
+      internalID: -46772643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_33
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 450
+        width: 35
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306b568d0a683401095465f6e7c38a22
+      internalID: 139939633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_34
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 451
+        width: 37
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4210a6a50842943e9bdd7377efa4f74d
+      internalID: -749047385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_35
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 451
+        width: 39
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687191c95cce34998895a002f66c36cb
+      internalID: 782076212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_36
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 451
+        width: 41
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17304f5f5d56c4de9a74a441c9496b81
+      internalID: -467570703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_37
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 451
+        width: 43
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ab67d2ee30a48688b8275acdcfabd0
+      internalID: -1240397888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_38
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 451
+        width: 45
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9661c0d0b404465480fe4a682a67f89
+      internalID: 581989967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_39
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 451
+        width: 47
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb6a15cb26f14b4cb54bfb74e7fee5f
+      internalID: -1805436985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_40
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 301
+        width: 48
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07e24ad858d348aa9434d90f71b0d17
+      internalID: -981254167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_41
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 301
+        width: 49
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7695be4a16894b519cb25234e6ab5f3
+      internalID: -563127792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_42
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 301
+        width: 50
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942bd430dbc8a4027a33763f3b5e5a74
+      internalID: -132156112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_43
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 301
+        width: 52
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357ffe90b4518410e8a38b62d5cdcf32
+      internalID: 143030279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_44
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 301
+        width: 52
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135d12d9dbf944c9abc757df1143edb2
+      internalID: 190035363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_45
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 300
+        width: 53
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a1e065d57ec4c71affd5867e6d3cb5
+      internalID: -967221103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_46
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 300
+        width: 54
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1a06d7bc5f044d3be1fc45666b8c46
+      internalID: -1568825233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_47
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 300
+        width: 54
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed03b3872040f4710a23870d75ae973b
+      internalID: -1824999021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_48
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 150
+        width: 55
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445d13d9e8578479fa8897818b9b422c
+      internalID: 231037761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_49
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 150
+        width: 55
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a19ec7668aa49749a685d2cfdf7772
+      internalID: -1921485367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_50
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 150
+        width: 55
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5997f3a69e34a4ea7adabe3a6e2e83
+      internalID: -654834175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_51
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 150
+        width: 55
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1086b1a784a71470488839bbdac960eb
+      internalID: 1842961260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_52
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 150
+        width: 53
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db1f951c1e5b46f78fa501e2f21e93c
+      internalID: -1303455099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_53
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 150
+        width: 52
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b336caef84fc445a5995459be5c2da2c
+      internalID: 2027380504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_54
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 150
+        width: 52
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd68566edd544707b003ba6b67a2941
+      internalID: 2038084160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_55
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 150
+        width: 50
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35603136d00bc49dc9f9b8c2c16a404f
+      internalID: 257134602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_56
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 48
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e3fd82571d64b569b9a92e054b5639
+      internalID: 1422352353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_57
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 0
+        width: 46
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff09fd404815e457382b42b6b88d4770
+      internalID: -517525149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_58
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 0
+        width: 46
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbe9e42577e24a8da919f8be2509123
+      internalID: 305351307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_59
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 0
+        width: 43
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d40b636d8d1140d0a82498dbb199e0f
+      internalID: 1141983891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerWalkNormalMap_60
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 0
+        width: 42
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44e9348ab2e5400f9a747507a0a98b7
+      internalID: 396104239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PlayerWalkNormalMap_17: 301893536
+      PlayerWalkNormalMap_44: 190035363
+      PlayerWalkNormalMap_20: 445931375
+      PlayerWalkNormalMap_58: 305351307
+      PlayerWalkNormalMap_12: 574764868
+      PlayerWalkNormalMap_29: 991914488
+      PlayerWalkNormalMap_43: 143030279
+      PlayerWalkNormalMap_4: 1982797547
+      PlayerWalkNormalMap_19: 1872589651
+      PlayerWalkNormalMap_3: -53693916
+      PlayerWalkNormalMap_9: 1298564256
+      PlayerWalkNormalMap_34: -749047385
+      PlayerWalkNormalMap_39: -1805436985
+      PlayerWalkNormalMap_59: 1141983891
+      PlayerWalkNormalMap_52: -1303455099
+      PlayerWalkNormalMap_14: 1031609377
+      PlayerWalkNormalMap_23: 2094492770
+      PlayerWalkNormalMap_5: -1693837766
+      PlayerWalkNormalMap_46: -1568825233
+      PlayerWalkNormalMap_8: -960600766
+      PlayerWalkNormalMap_18: 38929122
+      PlayerWalkNormalMap_24: 127704778
+      PlayerWalkNormalMap_2: -474862759
+      PlayerWalkNormalMap_26: 1979762157
+      PlayerWalkNormalMap_1: 1472161810
+      PlayerWalkNormalMap_13: -2111804499
+      PlayerWalkNormalMap_36: -467570703
+      PlayerWalkNormalMap_35: 782076212
+      PlayerWalkNormalMap_7: 1457553801
+      PlayerWalkNormalMap_16: -1165873220
+      PlayerWalkNormalMap_45: -967221103
+      PlayerWalkNormalMap_53: 2027380504
+      PlayerWalkNormalMap_38: 581989967
+      PlayerWalkNormalMap_48: 231037761
+      PlayerWalkNormalMap_10: -973299458
+      PlayerWalkNormalMap_6: 76812719
+      PlayerWalkNormalMap_60: 396104239
+      PlayerWalkNormalMap_11: -83725174
+      PlayerWalkNormalMap_47: -1824999021
+      PlayerWalkNormalMap_40: -981254167
+      PlayerWalkNormalMap_21: -721744076
+      PlayerWalkNormalMap_28: 1624937375
+      PlayerWalkNormalMap_41: -563127792
+      PlayerWalkNormalMap_22: 1129265776
+      PlayerWalkNormalMap_37: -1240397888
+      PlayerWalkNormalMap_15: 1994555832
+      PlayerWalkNormalMap_25: 1977150003
+      PlayerWalkNormalMap_54: 2038084160
+      PlayerWalkNormalMap_27: 1954743800
+      PlayerWalkNormalMap_51: 1842961260
+      PlayerWalkNormalMap_57: -517525149
+      PlayerWalkNormalMap_42: -132156112
+      PlayerWalkNormalMap_55: 257134602
+      PlayerWalkNormalMap_30: -2109660032
+      PlayerWalkNormalMap_32: -46772643
+      PlayerWalkNormalMap_50: -654834175
+      PlayerWalkNormalMap_31: 822904688
+      PlayerWalkNormalMap_0: 668800842
+      PlayerWalkNormalMap_33: 139939633
+      PlayerWalkNormalMap_56: 1422352353
+      PlayerWalkNormalMap_49: -1921485367
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

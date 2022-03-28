@@ -1,0 +1,1464 @@
+fileFormatVersion: 2
+guid: 5e5022424db964e6da1c1648679332ad
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1050
+        width: 70
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f000a8684b040e1989e076f6355267
+      internalID: -885721422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1050
+        width: 70
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf989dd213794d47b6c6d11c00e3cd3
+      internalID: 198263504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_2
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1050
+        width: 70
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c14dfe8f5ea41a09c78dfc6c2938bf
+      internalID: -1123606333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_3
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1050
+        width: 70
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886e8c5ce55b54ffc978f8f398a35810
+      internalID: 270822835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1050
+        width: 70
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50c6f88b90e443b9888b2a760a893be
+      internalID: 1186010769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_5
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1050
+        width: 72
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d8801402ccb4bc1b305f056ee89fa3
+      internalID: 33328388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_6
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1050
+        width: 73
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4662982af3f0349b6a6c0314944aa7e6
+      internalID: -1039380548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_7
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1050
+        width: 74
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253e46d3fe28b4f118f6c07d9ed089df
+      internalID: -1546285079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 900
+        width: 75
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6393ae743ac4649a38a48e1e7b6921
+      internalID: 923456237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_9
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 900
+        width: 75
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c16db34b6ebd463fb28edd4cee15669
+      internalID: 1118968980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_10
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 900
+        width: 74
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309d9754f7a254acf8087ee2e2a7367d
+      internalID: -809520219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_11
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 900
+        width: 73
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a05c18f44424d01bb379b3e3e84252
+      internalID: -1863711080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_12
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 900
+        width: 72
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9225def9c93ed42aba0f9273b89d6270
+      internalID: 1767169357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_13
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 900
+        width: 72
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e226eabe693d74f959c24aa5da9c69dd
+      internalID: 1807908732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_14
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 900
+        width: 68
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9a172cbca1e48b09ac8f02868ecbb7
+      internalID: 92301018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_15
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 900
+        width: 66
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1144a93d0a1144f0dbec63f7e92f2827
+      internalID: -880394230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_16
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 750
+        width: 65
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a53a7eadffa84399b72c7cae3d78076
+      internalID: 196957237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_17
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 750
+        width: 65
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03c6e18427334059a019af8fd6bd284
+      internalID: 1764003935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_18
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 750
+        width: 65
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffffa96791f4423c8a27b2a674cecdb
+      internalID: -289235122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_19
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 750
+        width: 65
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799debaac7c6d440694c0f0e2912c6ae
+      internalID: -844548277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_20
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 750
+        width: 64
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affdd7fa82d58446586ad5e1752a5ec4
+      internalID: 2020083644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_21
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 750
+        width: 64
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a00a111cc60464a860324cff7a5b61
+      internalID: -1736696713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_22
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 750
+        width: 63
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d624d7ab724a645d7b64cbdfa5a90ffd
+      internalID: 778046135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_23
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 750
+        width: 62
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ee4157e9602470da1f7d1ff02001d4
+      internalID: -872256231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_24
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 600
+        width: 61
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0eb2c319667343109fd2861f1974287
+      internalID: 448552556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_25
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 600
+        width: 60
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0209580a0a5be4904b746e73afd80583
+      internalID: 473011166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_26
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 600
+        width: 59
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd4023ca90eb445bacac4b1009b6445
+      internalID: -566128211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_27
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 600
+        width: 58
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c33b87b4b204b87b7bd69f407ced97
+      internalID: -325061091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_28
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 600
+        width: 57
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d9e2a09025848f597048bc83ca231f
+      internalID: 1308094018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_29
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 600
+        width: 56
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3faeebcc1dd4adca56201ad0c0224b
+      internalID: 2102077992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_30
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 600
+        width: 55
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60de717f81a743a59146debca8a752a
+      internalID: 1895502557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_31
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 600
+        width: 55
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62688b652d9e0458e8976bdb76acaa1b
+      internalID: -26465539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_32
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 450
+        width: 55
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39626331ce76e40e1a17effcc6bd8c83
+      internalID: -540460534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_33
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 450
+        width: 55
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013f2c6d4960e440f9e8a318f7329926
+      internalID: 1635254032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_34
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 450
+        width: 55
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592f1135f792a482883b5dba2f87145e
+      internalID: -1245203596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_35
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 450
+        width: 55
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f96562445652490fb8c35a0742f284b
+      internalID: 2039357569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_36
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 450
+        width: 56
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf33a0fbea3f478f891f986b563666c
+      internalID: 1764875817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_37
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 450
+        width: 56
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95a1dbc23c6b45ea84c454c1ff9fe21
+      internalID: -1164278058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_38
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 450
+        width: 57
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd37b6685dca4c85bfe552a3644db17
+      internalID: -681835471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_39
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 450
+        width: 57
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb4a71e263214b07b470d23651530d2
+      internalID: 30397472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_40
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 300
+        width: 58
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680fc40142e594af39aead55ed615dbd
+      internalID: 1628315363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_41
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 300
+        width: 58
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd9d1890ff074bb2b19c211fa6cf2c4
+      internalID: -1762545335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_42
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 300
+        width: 59
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf15660e90464a48b5635c971644082
+      internalID: -1377722880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_43
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 300
+        width: 59
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416527f8fe57642cd9630a6969fee77f
+      internalID: -102293796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_44
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 300
+        width: 59
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e4df9ed488d46828889065d56a9ead
+      internalID: 1413769213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_45
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 300
+        width: 59
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7186974258242fa8a81a238ea6837f
+      internalID: -162008610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_46
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 300
+        width: 59
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b836404a30a11462491e3545a7d89baa
+      internalID: -2134375534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_47
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 300
+        width: 60
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbc25b75a0074475b9e4d48fbd0ec04
+      internalID: -1850486318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_48
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 150
+        width: 60
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ad2b5ba44be46189b4888c9bcdffb6
+      internalID: 788667860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_49
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 150
+        width: 61
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6037bc87d4d4eb4bb797422f265897
+      internalID: -541726792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_50
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 150
+        width: 62
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649bbdaf1b5fe49c79b48a88897dd582
+      internalID: 688245324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_51
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 150
+        width: 62
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bf17265458646fdaac6827bd666020
+      internalID: -887044104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_52
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 150
+        width: 63
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087246398912748a8b8cf971b711fc55
+      internalID: -1179271429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_53
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 150
+        width: 63
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6516699ac3204ea69ddba9dbbd52491
+      internalID: 718497097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_54
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 150
+        width: 63
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b89ac69df9db412ea5bdbf17dc8eb45
+      internalID: 1555675531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_55
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 150
+        width: 64
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e1c1b0694524a42a35072b371fb6b3
+      internalID: 1958497406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_56
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 64
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b477a77cae8d4c0584e4b0d10fd7d04
+      internalID: 576748296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_57
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 64
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e32dd4d241a4e2e8400f0ddef91b16
+      internalID: 63126077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_58
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 0
+        width: 65
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cc92184978947b9ba70c524e6dd261
+      internalID: -151250889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_59
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 0
+        width: 65
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c750857eb26349ad94e9740a37d2fc5
+      internalID: 1560401459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDrawNormalMap_60
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 0
+        width: 65
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f286e756b60c43eda97ea9e0599bfc1
+      internalID: -1020127529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PlayerArowDrawNormalMap_25: 473011166
+      PlayerArowDrawNormalMap_42: -1377722880
+      PlayerArowDrawNormalMap_34: -1245203596
+      PlayerArowDrawNormalMap_10: -809520219
+      PlayerArowDrawNormalMap_5: 33328388
+      PlayerArowDrawNormalMap_45: -162008610
+      PlayerArowDrawNormalMap_16: 196957237
+      PlayerArowDrawNormalMap_35: 2039357569
+      PlayerArowDrawNormalMap_36: 1764875817
+      PlayerArowDrawNormalMap_26: -566128211
+      PlayerArowDrawNormalMap_7: -1546285079
+      PlayerArowDrawNormalMap_40: 1628315363
+      PlayerArowDrawNormalMap_43: -102293796
+      PlayerArowDrawNormalMap_23: -872256231
+      PlayerArowDrawNormalMap_11: -1863711080
+      PlayerArowDrawNormalMap_53: 718497097
+      PlayerArowDrawNormalMap_57: 63126077
+      PlayerArowDrawNormalMap_13: 1807908732
+      PlayerArowDrawNormalMap_31: -26465539
+      PlayerArowDrawNormalMap_44: 1413769213
+      PlayerArowDrawNormalMap_50: 688245324
+      PlayerArowDrawNormalMap_38: -681835471
+      PlayerArowDrawNormalMap_54: 1555675531
+      PlayerArowDrawNormalMap_2: -1123606333
+      PlayerArowDrawNormalMap_49: -541726792
+      PlayerArowDrawNormalMap_8: 923456237
+      PlayerArowDrawNormalMap_59: 1560401459
+      PlayerArowDrawNormalMap_60: -1020127529
+      PlayerArowDrawNormalMap_6: -1039380548
+      PlayerArowDrawNormalMap_15: -880394230
+      PlayerArowDrawNormalMap_29: 2102077992
+      PlayerArowDrawNormalMap_3: 270822835
+      PlayerArowDrawNormalMap_21: -1736696713
+      PlayerArowDrawNormalMap_0: -885721422
+      PlayerArowDrawNormalMap_32: -540460534
+      PlayerArowDrawNormalMap_1: 198263504
+      PlayerArowDrawNormalMap_46: -2134375534
+      PlayerArowDrawNormalMap_14: 92301018
+      PlayerArowDrawNormalMap_37: -1164278058
+      PlayerArowDrawNormalMap_56: 576748296
+      PlayerArowDrawNormalMap_30: 1895502557
+      PlayerArowDrawNormalMap_19: -844548277
+      PlayerArowDrawNormalMap_24: 448552556
+      PlayerArowDrawNormalMap_39: 30397472
+      PlayerArowDrawNormalMap_4: 1186010769
+      PlayerArowDrawNormalMap_9: 1118968980
+      PlayerArowDrawNormalMap_52: -1179271429
+      PlayerArowDrawNormalMap_20: 2020083644
+      PlayerArowDrawNormalMap_17: 1764003935
+      PlayerArowDrawNormalMap_18: -289235122
+      PlayerArowDrawNormalMap_22: 778046135
+      PlayerArowDrawNormalMap_27: -325061091
+      PlayerArowDrawNormalMap_33: 1635254032
+      PlayerArowDrawNormalMap_58: -151250889
+      PlayerArowDrawNormalMap_55: 1958497406
+      PlayerArowDrawNormalMap_51: -887044104
+      PlayerArowDrawNormalMap_47: -1850486318
+      PlayerArowDrawNormalMap_12: 1767169357
+      PlayerArowDrawNormalMap_41: -1762545335
+      PlayerArowDrawNormalMap_48: 788667860
+      PlayerArowDrawNormalMap_28: 1308094018
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1464 @@
+fileFormatVersion: 2
+guid: 4f1a0a0e1f2a04283b92a27ddd77a57c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayerArowDraw_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1050
+        width: 70
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e61ea3015a414295834d5bb3645ea32
+      internalID: -542862173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1050
+        width: 70
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d160ef04d3f417ba598eb9a70aaee7
+      internalID: -1514260056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_2
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1050
+        width: 70
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8b177008378448ab30ca832401e336
+      internalID: -170162812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_3
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1050
+        width: 70
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2ea07c5990a4f90878e7e86e969be4
+      internalID: -323063702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1050
+        width: 70
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6822a0dfdbd21485e853dd0cc6a112eb
+      internalID: -263094807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_5
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1050
+        width: 72
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed4e5ac612b548ecad7d5bb5538f7af
+      internalID: 1114951351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_6
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1050
+        width: 73
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307c30a4a93aa409383f9afae1639981
+      internalID: 1937595212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_7
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1050
+        width: 74
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f4423dbd1654c3fb749ea0abd33ad9
+      internalID: 2137391572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 900
+        width: 75
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c803381e8035f49ada46b4678180c042
+      internalID: -1691377907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_9
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 900
+        width: 75
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f94c3dcc08e4a1cbc6000dc709db68
+      internalID: -992056242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_10
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 900
+        width: 74
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d033a822df7945ee87abc01132835e0
+      internalID: -935385192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_11
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 900
+        width: 73
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a09dd69b29934c71b810c1bd69aef22
+      internalID: -1548058304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_12
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 900
+        width: 72
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777d4de5dc2834e82993c60c3b6448dd
+      internalID: 620006879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_13
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 900
+        width: 72
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1154ef2454f74fd99bf369a29f66f6a
+      internalID: -1827420577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_14
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 900
+        width: 68
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020ce732af3ed40d2926cf8c23c86873
+      internalID: -2128402638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_15
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 900
+        width: 66
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0d322503a62440f9d374861373cbf9
+      internalID: -85917417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_16
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 750
+        width: 65
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e89426f6aa994459af296ec9760454d
+      internalID: -1398263245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_17
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 750
+        width: 65
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d93b941de7f14726a6b074231cb94fa
+      internalID: 2075620187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_18
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 750
+        width: 65
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fbf51bab24141d7a20dcb6cb29d26e
+      internalID: -1992746275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_19
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 750
+        width: 65
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15268aaea1cbe48e99b7a862e15cad63
+      internalID: -2136404284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_20
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 750
+        width: 64
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a715a4a5c26442c844bc8644eace43
+      internalID: 1230044693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_21
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 750
+        width: 64
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d3112b68aff454482a3779caaa62d9
+      internalID: -2147269765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_22
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 750
+        width: 63
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c33319e3ee246a2b8dac2330e01541
+      internalID: -2089862680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_23
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 750
+        width: 62
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6593e6bb169499dbb489c35ea65c95
+      internalID: -1487249062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_24
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 600
+        width: 61
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd22d52cf5654f1288265a1581c6812
+      internalID: -1582661064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_25
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 600
+        width: 60
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b49f98bf420c488fb59d22a821524ee
+      internalID: 847725356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_26
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 600
+        width: 59
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad8eee174220407d9559b4bc87c40ba
+      internalID: -995413177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_27
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 600
+        width: 58
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161e0548f9a614c249c523408d908e9a
+      internalID: 1905041822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_28
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 600
+        width: 57
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69d03b343ab14a5a9c5e9974b92f25d
+      internalID: -917863661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_29
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 600
+        width: 56
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180619760a5544197aae2b22c49aebf3
+      internalID: 393125210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_30
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 600
+        width: 55
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c132743de1ee43c7934caee1ce9deaa
+      internalID: -1427989615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_31
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 600
+        width: 55
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0537442b57a674908b1591111827f517
+      internalID: 604816452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_32
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 450
+        width: 55
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02116c387d1154aa9b70c867dfd60c40
+      internalID: -1856879497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_33
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 450
+        width: 55
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1934b5bb1a7745e9a637a42e89f787b
+      internalID: -1292629708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_34
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 450
+        width: 55
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a441035d67da4c8a808d13024cee941
+      internalID: 311393133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_35
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 450
+        width: 55
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827a1dfbeb14d41eda7a4c2b5f9a110b
+      internalID: 485907714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_36
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 450
+        width: 56
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46f422e1a597431ca594a7bd9eec4ea
+      internalID: -1529406167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_37
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 450
+        width: 56
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b8991a4b3b34703ae084c4bcfa0e8f
+      internalID: 943642924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_38
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 450
+        width: 57
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cc79091eb98489da7b7fe17b37f32a
+      internalID: -1955067490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_39
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 450
+        width: 57
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272f2e78725874899997e6eb7dd09bb2
+      internalID: -1204618745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_40
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 300
+        width: 58
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565bfc18eb8b04f91a51c4f29fb55925
+      internalID: -1930370061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_41
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 300
+        width: 58
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc75d820e55a46a38df49c5240d0df6
+      internalID: -679650202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_42
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 300
+        width: 59
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a520bc23774034c07b4b5042a934f8a8
+      internalID: -1439203580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_43
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 300
+        width: 59
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416c32cd366f34148ad66eccfb660383
+      internalID: 1591980744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_44
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 300
+        width: 59
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4b158864e2b4a6d8faf6ccfc979ea0
+      internalID: 1180318857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_45
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 300
+        width: 59
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7957590bc724418a27c8eb50d05fa3
+      internalID: -714728894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_46
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 300
+        width: 59
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27bb128063c14e1c939edf384810cf8
+      internalID: -864759077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_47
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 300
+        width: 60
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41184edacc1bb470186750fdda8ca2e1
+      internalID: -1123466312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_48
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 150
+        width: 60
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a7f200298334e91aeae4bef9d4cd0a
+      internalID: -570274677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_49
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 150
+        width: 61
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bbff512567b4c2b9f5efed38f3cd2d
+      internalID: 1743089418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_50
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 150
+        width: 62
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6416420784ae407c96f35964e1042a8
+      internalID: -1132294999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_51
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 150
+        width: 62
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9115fe66555544f6e9e55ba6688541bd
+      internalID: -171188496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_52
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 150
+        width: 63
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f44ba7534904e16a43e19b30b82ee4
+      internalID: -1409876039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_53
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 150
+        width: 63
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a2fe6af37594f9fb8c45076c05a902
+      internalID: 413979553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_54
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 150
+        width: 63
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a5be73b2af041e19f26a2e9ee400d3
+      internalID: -1347350577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_55
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 150
+        width: 64
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04294ada35a9c4cc6a5785a37f7a0dfd
+      internalID: 1935719146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_56
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 64
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ca5a62e89df4d97b4b7732a49bace4
+      internalID: 2003666862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_57
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 64
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a7c2f150132489ba19100a59f44a78
+      internalID: -1618805850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_58
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 0
+        width: 65
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51942efe5536e47e7a7e2722ca5479d2
+      internalID: -1480833253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_59
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 0
+        width: 65
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0709be249b74826a804d69e4950f73
+      internalID: 679651677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerArowDraw_60
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 0
+        width: 65
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95d8b26ab45a4a96a5105d3e6666295
+      internalID: 66658124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PlayerArowDraw_55: 1935719146
+      PlayerArowDraw_5: 1114951351
+      PlayerArowDraw_22: -2089862680
+      PlayerArowDraw_3: -323063702
+      PlayerArowDraw_57: -1618805850
+      PlayerArowDraw_40: -1930370061
+      PlayerArowDraw_19: -2136404284
+      PlayerArowDraw_20: 1230044693
+      PlayerArowDraw_43: 1591980744
+      PlayerArowDraw_7: 2137391572
+      PlayerArowDraw_60: 66658124
+      PlayerArowDraw_0: -542862173
+      PlayerArowDraw_14: -2128402638
+      PlayerArowDraw_23: -1487249062
+      PlayerArowDraw_25: 847725356
+      PlayerArowDraw_56: 2003666862
+      PlayerArowDraw_58: -1480833253
+      PlayerArowDraw_24: -1582661064
+      PlayerArowDraw_30: -1427989615
+      PlayerArowDraw_18: -1992746275
+      PlayerArowDraw_45: -714728894
+      PlayerArowDraw_46: -864759077
+      PlayerArowDraw_4: -263094807
+      PlayerArowDraw_15: -85917417
+      PlayerArowDraw_35: 485907714
+      PlayerArowDraw_44: 1180318857
+      PlayerArowDraw_29: 393125210
+      PlayerArowDraw_42: -1439203580
+      PlayerArowDraw_26: -995413177
+      PlayerArowDraw_10: -935385192
+      PlayerArowDraw_9: -992056242
+      PlayerArowDraw_51: -171188496
+      PlayerArowDraw_16: -1398263245
+      PlayerArowDraw_41: -679650202
+      PlayerArowDraw_49: 1743089418
+      PlayerArowDraw_27: 1905041822
+      PlayerArowDraw_47: -1123466312
+      PlayerArowDraw_48: -570274677
+      PlayerArowDraw_12: 620006879
+      PlayerArowDraw_8: -1691377907
+      PlayerArowDraw_28: -917863661
+      PlayerArowDraw_36: -1529406167
+      PlayerArowDraw_17: 2075620187
+      PlayerArowDraw_53: 413979553
+      PlayerArowDraw_52: -1409876039
+      PlayerArowDraw_37: 943642924
+      PlayerArowDraw_1: -1514260056
+      PlayerArowDraw_34: 311393133
+      PlayerArowDraw_39: -1204618745
+      PlayerArowDraw_11: -1548058304
+      PlayerArowDraw_33: -1292629708
+      PlayerArowDraw_13: -1827420577
+      PlayerArowDraw_50: -1132294999
+      PlayerArowDraw_6: 1937595212
+      PlayerArowDraw_31: 604816452
+      PlayerArowDraw_32: -1856879497
+      PlayerArowDraw_59: 679651677
+      PlayerArowDraw_21: -2147269765
+      PlayerArowDraw_54: -1347350577
+      PlayerArowDraw_2: -170162812
+      PlayerArowDraw_38: -1955067490
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

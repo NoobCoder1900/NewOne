@@ -1,0 +1,1222 @@
+fileFormatVersion: 2
+guid: bdd7ec6cb9a16499fac0c8559eb00f03
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OnlyJumpUp_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1050
+        width: 54
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6e9cf6c33254ad29ddbf0a2b55e1f8
+      internalID: 384927974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1050
+        width: 55
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292d73dda9d13456eb6bb1f52b76398b
+      internalID: 1308717188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_2
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1050
+        width: 55
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46acf0d635b5480790ef691d6aac74e
+      internalID: -1741542266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_3
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1050
+        width: 57
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82346a5af1114be5bc1f858c30c2be6
+      internalID: 1794733027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_4
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1050
+        width: 58
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbbd19d899034866a4bbaa2238b3558
+      internalID: -256179869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_5
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1050
+        width: 59
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcffe1ffc26ae4aa19e4a7f46df50468
+      internalID: -158686436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_6
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1050
+        width: 61
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4806d9963802643abae56992ea0d0a22
+      internalID: 1079373518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_7
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1050
+        width: 62
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf7bc6d947954bbfa5fed944bff7dd4
+      internalID: -2026104381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 900
+        width: 63
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6374a54535d334453bd9fc77e8e581e3
+      internalID: -813169028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_9
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 900
+        width: 62
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c336455c76e4b62beb5b9a1db1ea5a
+      internalID: -1162202095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_10
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 900
+        width: 62
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39259a058fa70447aa20d0b84748ea20
+      internalID: 2139295009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_11
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 900
+        width: 60
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb275435258f4b479cfab35eeb5479c
+      internalID: 155974987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_12
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 900
+        width: 58
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bddfaf82558884779a43ea83b73e7871
+      internalID: 469250580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_13
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 900
+        width: 57
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8751357cbe0aa41218c6fe934ccc4f45
+      internalID: 121952410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_14
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 900
+        width: 57
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a53fa2debb284fe59eec250687b2fcf
+      internalID: 1493819149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_15
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 900
+        width: 55
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc495176ce15496eba1e1fd36584bf9
+      internalID: 1066310814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_16
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 750
+        width: 52
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaaebe5f658544354896637b74f0cc84
+      internalID: -532115085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_17
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 750
+        width: 49
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3289556e3304d5ea2a49a79ab0c85d
+      internalID: 52020749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_18
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 750
+        width: 47
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53dd961ca20f14a6ba6806072f0cdf32
+      internalID: 880412950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_19
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 750
+        width: 47
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468b26d98d7044dac9e499d2ba93c7d3
+      internalID: -2292117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_20
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 750
+        width: 47
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d3a4929ea0549c1b9bf354a0597c22
+      internalID: -1643620294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_21
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 750
+        width: 49
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf74ff1117be4e54bb330c3494a08d2
+      internalID: 616567511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_22
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 750
+        width: 52
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edc38ac934224082a4f82de9c46a0e1
+      internalID: -1163063407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_23
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 750
+        width: 57
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6260db91325fa48c1b106b1acc3f01d7
+      internalID: 53330100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_24
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 600
+        width: 63
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab06868b5b54f44a5b19d5c74fa25c33
+      internalID: 2110239138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_25
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 600
+        width: 67
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977d57235ae604911828d1bcca7cfac7
+      internalID: -702861919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_26
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 600
+        width: 70
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ebbf4a04f2e4bbea1f7ed12bbd8a7f
+      internalID: -519333379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_27
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 600
+        width: 71
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe8b1fbf34ea4c48b212ce31b26e146
+      internalID: -682618392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_28
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 600
+        width: 73
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f919b3b51078948f1893ca7791759f0c
+      internalID: 665593974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_29
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 600
+        width: 73
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1938e7c9ea224425081223244fea80ee
+      internalID: -1999079009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_30
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 600
+        width: 75
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8369119e46543278d707b942228e86
+      internalID: 715397395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_31
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 600
+        width: 76
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc41a9c43c704f3b8a3762863309a30
+      internalID: 706471934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_32
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 450
+        width: 78
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b31284c70ac64a939e132ad4ff42207
+      internalID: 279710516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_33
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 452
+        width: 79
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a967a6c5f5341fab1b44f531f9decf
+      internalID: -1239187441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_34
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 455
+        width: 80
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3955b49d6ef14459d9c5e4ea77f5652a
+      internalID: -804919881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_35
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 458
+        width: 81
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c2688e136074f21b751cf95e14cd17
+      internalID: -378657762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_36
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 462
+        width: 82
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a30684cf131c4dcbabc9b0dd8cea6aa
+      internalID: 1393613028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_37
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 467
+        width: 84
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ced203df23b4f8f89319fb4206574a
+      internalID: -1878873511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_38
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 471
+        width: 86
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7149519c595e74f91a4ea9b4b91c88b5
+      internalID: -1623238976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_39
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 475
+        width: 88
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808e19654bdc248fab60c9c0bb980924
+      internalID: 916380965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_40
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 328
+        width: 91
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e3f0efde3e24409bbb4a37d7117392
+      internalID: -1529539666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_41
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 331
+        width: 94
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724aabd4ae0a44f89ad0e43f695b2cb3
+      internalID: 1342134642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_42
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 335
+        width: 97
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5dc73c28edf4c04bd42adb1038cccd
+      internalID: 1467898570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_43
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 338
+        width: 100
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6584e38727d45429dbba28b5b2167c
+      internalID: 420888197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_44
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 342
+        width: 102
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e6d33d1a00b4138af3011d651ce8f0
+      internalID: -939806948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_45
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 345
+        width: 104
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b238bc42d5d245549c6473f45dac836
+      internalID: -1221656036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_46
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 348
+        width: 105
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c965c41dfd8bc4312886a055301b6ca4
+      internalID: -1712865262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_47
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 350
+        width: 106
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee5cf8ace6324ad1a4eaa4ba4f3aa37
+      internalID: 1273807946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_48
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 202
+        width: 107
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eabc8de3beb84bd582f6f32e92d5808
+      internalID: -1411293998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnlyJumpUp_49
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 203
+        width: 106
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebd9f8faa5ed431db551142ae2bade0
+      internalID: 364584068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      OnlyJumpUp_20: -1643620294
+      OnlyJumpUp_13: 121952410
+      OnlyJumpUp_39: 916380965
+      OnlyJumpUp_37: -1878873511
+      OnlyJumpUp_18: 880412950
+      OnlyJumpUp_34: -804919881
+      OnlyJumpUp_32: 279710516
+      OnlyJumpUp_4: -256179869
+      OnlyJumpUp_36: 1393613028
+      OnlyJumpUp_41: 1342134642
+      OnlyJumpUp_46: -1712865262
+      OnlyJumpUp_9: -1162202095
+      OnlyJumpUp_21: 616567511
+      OnlyJumpUp_42: 1467898570
+      OnlyJumpUp_49: 364584068
+      OnlyJumpUp_45: -1221656036
+      OnlyJumpUp_12: 469250580
+      OnlyJumpUp_40: -1529539666
+      OnlyJumpUp_30: 715397395
+      OnlyJumpUp_15: 1066310814
+      OnlyJumpUp_27: -682618392
+      OnlyJumpUp_33: -1239187441
+      OnlyJumpUp_38: -1623238976
+      OnlyJumpUp_28: 665593974
+      OnlyJumpUp_11: 155974987
+      OnlyJumpUp_14: 1493819149
+      OnlyJumpUp_1: 1308717188
+      OnlyJumpUp_35: -378657762
+      OnlyJumpUp_10: 2139295009
+      OnlyJumpUp_47: 1273807946
+      OnlyJumpUp_5: -158686436
+      OnlyJumpUp_19: -2292117
+      OnlyJumpUp_23: 53330100
+      OnlyJumpUp_17: 52020749
+      OnlyJumpUp_24: 2110239138
+      OnlyJumpUp_29: -1999079009
+      OnlyJumpUp_7: -2026104381
+      OnlyJumpUp_44: -939806948
+      OnlyJumpUp_22: -1163063407
+      OnlyJumpUp_2: -1741542266
+      OnlyJumpUp_8: -813169028
+      OnlyJumpUp_31: 706471934
+      OnlyJumpUp_0: 384927974
+      OnlyJumpUp_25: -702861919
+      OnlyJumpUp_43: 420888197
+      OnlyJumpUp_48: -1411293998
+      OnlyJumpUp_3: 1794733027
+      OnlyJumpUp_16: -532115085
+      OnlyJumpUp_6: 1079373518
+      OnlyJumpUp_26: -519333379
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

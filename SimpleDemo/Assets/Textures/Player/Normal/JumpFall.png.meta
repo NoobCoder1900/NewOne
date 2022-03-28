@@ -1,0 +1,1106 @@
+fileFormatVersion: 2
+guid: 15ef5abb3607b489f9a3e0378dad9c50
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayerJumpNormalMap_16
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 815
+        width: 80
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a3f6716c7964fc1969a841b454f19f
+      internalID: -2014528034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJumpNormalMap_17
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 818
+        width: 80
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612a516e1036d490ab69c402960a128f
+      internalID: -602810500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJumpNormalMap_18
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 820
+        width: 80
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7507dd058844cb380f932e943f8428
+      internalID: -1062199437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJumpNormalMap_19
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 822
+        width: 79
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa20ca454982743658e5f11f977875fc
+      internalID: 1769471494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJumpNormalMap_20
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 824
+        width: 77
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbb840aa95da4eef9f5fc04682cc029
+      internalID: 1618296212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJumpNormalMap_21
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 824
+        width: 75
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1ef12de3d834779a6cf15c13f6a1b0
+      internalID: -846429855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJumpNormalMap_22
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 822
+        width: 73
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cd0712a0f6d427886f14bec9c71d5b
+      internalID: 558246269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJumpNormalMap_23
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 820
+        width: 70
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a8a09dfe07b49fa8faddf9f0dfe15c
+      internalID: -669931656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJumpNormalMap_24
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 668
+        width: 69
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a70a32f46ba4da58b41d178efbf6dd
+      internalID: -1862044749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJumpNormalMap_25
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 665
+        width: 69
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6406323b5e944a04a64f2efc86e0a4a
+      internalID: -1765757503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJumpNormalMap_26
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 661
+        width: 71
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da09652a7c35475190671820f9891ab
+      internalID: 515925885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJumpNormalMap_27
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 657
+        width: 71
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ec37a44b5fd4d4dac52682ec8f4beb
+      internalID: 1937830031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJumpNormalMap_28
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 652
+        width: 71
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f295eb1f3eb6749ed94c3219e7f0750b
+      internalID: -1532552697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJumpNormalMap_29
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 647
+        width: 72
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40821086d39f346318d81e2fa94707dd
+      internalID: -591024002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJumpNormalMap_30
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 642
+        width: 74
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8682636bb1b5e431f860c9b0a78383c4
+      internalID: -837973342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJumpNormalMap_31
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 636
+        width: 77
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0a2d230a32f4056ad49033eddba578
+      internalID: 1214508040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJumpNormalMap_32
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 481
+        width: 79
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5abbcc9965d43499889deffe539dde
+      internalID: 1505870877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJumpNormalMap_33
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 475
+        width: 82
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a7ff2642e294a03928d650257ffb8e
+      internalID: 1156028871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJumpNormalMap_34
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 470
+        width: 84
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29f4873e33aa49efb626d44c4a8f36e
+      internalID: -607952638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJumpNormalMap_35
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 464
+        width: 85
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec9775c78e5e480f9fbfded0682dbce
+      internalID: 1698960954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJumpNormalMap_36
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 459
+        width: 86
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd3e195a813748d29ad79e84e05ea5c
+      internalID: -81260486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJumpNormalMap_37
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 454
+        width: 86
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8fc87d9bdb2494faf7df59a9bd8005
+      internalID: -1345625344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJumpNormalMap_38
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 451
+        width: 84
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766d43d1cce214b18be4eaf7c962d621
+      internalID: 506354315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJumpNormalMap_39
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 450
+        width: 81
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3f45a90a5604ddd9a61853353abeea
+      internalID: -1922973904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJumpNormalMap_40
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 300
+        width: 77
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cf7f8dff37f467a9c1c34ebbae8a8e
+      internalID: 506140167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJumpNormalMap_41
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 300
+        width: 69
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d8e81f7cf5a4a1d93fdd046e953ba1
+      internalID: -697308611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJumpNormalMap_42
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 300
+        width: 61
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8568cc5c3a6474f91cc49665a413ee
+      internalID: 667779502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJumpNormalMap_43
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 300
+        width: 59
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d9e3e19c34e49719a000581aa364f5
+      internalID: 246684742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJumpNormalMap_44
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 300
+        width: 59
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6053bce8741f949a8b1d719071dc48ee
+      internalID: 815885694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJumpNormalMap_45
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 300
+        width: 60
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab428c7b3354e41b09ade763d076a5cc
+      internalID: 337668148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJumpNormalMap_46
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 300
+        width: 60
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfc40326d1ef4214b8553f8113fc45b
+      internalID: -811512488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJumpNormalMap_47
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 301
+        width: 59
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5610d0f14be49069fc5bddd654155d
+      internalID: -100969249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJumpNormalMap_48
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 151
+        width: 59
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226acdad784a34ea2a538978bbdfbb04
+      internalID: -25993788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJumpNormalMap_49
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 150
+        width: 58
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367e28d8401e44fa8ab741a5f2ad7455
+      internalID: 624681708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJumpNormalMap_50
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 150
+        width: 56
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3ad9d0a1fbf46e0b5b40254455c4e7
+      internalID: 597516172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJumpNormalMap_51
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 150
+        width: 55
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3311db501ec4ee39f31f31fa49a870
+      internalID: -744955608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJumpNormalMap_52
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 150
+        width: 52
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0d68b258b334d44bcd071767f57858
+      internalID: 1161728127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJumpNormalMap_53
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 150
+        width: 52
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2baa02dad7bc465e8e4a6fa8685618a
+      internalID: -1157795326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJumpNormalMap_54
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 150
+        width: 55
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc04239032b746aca2bb77b95656bd9
+      internalID: -1706838106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJumpNormalMap_55
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 150
+        width: 55
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8433b045df64a088a0777ec67d0008
+      internalID: 1188595159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJumpNormalMap_56
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 54
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1457d4dd90214a9faee31aed22d0f38
+      internalID: 1646557916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJumpNormalMap_57
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1
+        width: 52
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defbe899b13b8492680eca8e6c85f777
+      internalID: -1061021638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJumpNormalMap_58
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1
+        width: 52
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475625c82c845414f817009c9e22580a
+      internalID: -1135991932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJumpNormalMap_59
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1
+        width: 55
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0ec9563b6d54cccb0b39e9549fb837
+      internalID: -840523967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PlayerJumpNormalMap_52: 1161728127
+      PlayerJumpNormalMap_58: -1135991932
+      PlayerJumpNormalMap_38: 506354315
+      PlayerJumpNormalMap_10: 2125769275
+      PlayerJumpNormalMap_23: -669931656
+      PlayerJumpNormalMap_11: -1323706290
+      PlayerJumpNormalMap_16: -2014528034
+      PlayerJumpNormalMap_6: 182006111
+      PlayerJumpNormalMap_29: -591024002
+      PlayerJumpNormalMap_9: 765271069
+      PlayerJumpNormalMap_26: 515925885
+      PlayerJumpNormalMap_41: -697308611
+      PlayerJumpNormalMap_8: -739998132
+      PlayerJumpNormalMap_51: -744955608
+      PlayerJumpNormalMap_2: 1686684270
+      PlayerJumpNormalMap_4: -1317684986
+      PlayerJumpNormalMap_47: -100969249
+      PlayerJumpNormalMap_39: -1922973904
+      PlayerJumpNormalMap_5: 681054271
+      PlayerJumpNormalMap_0: 314080278
+      PlayerJumpNormalMap_14: -1662238925
+      PlayerJumpNormalMap_31: 1214508040
+      PlayerJumpNormalMap_53: -1157795326
+      PlayerJumpNormalMap_22: 558246269
+      PlayerJumpNormalMap_33: 1156028871
+      PlayerJumpNormalMap_54: -1706838106
+      PlayerJumpNormalMap_12: 277403386
+      PlayerJumpNormalMap_13: -1111392781
+      PlayerJumpNormalMap_7: -914380736
+      PlayerJumpNormalMap_59: -840523967
+      PlayerJumpNormalMap_25: -1765757503
+      PlayerJumpNormalMap_15: -1829730957
+      PlayerJumpNormalMap_56: 1646557916
+      PlayerJumpNormalMap_1: 308261962
+      PlayerJumpNormalMap_17: -602810500
+      PlayerJumpNormalMap_24: -1862044749
+      PlayerJumpNormalMap_32: 1505870877
+      PlayerJumpNormalMap_45: 337668148
+      PlayerJumpNormalMap_18: -1062199437
+      PlayerJumpNormalMap_19: 1769471494
+      PlayerJumpNormalMap_49: 624681708
+      PlayerJumpNormalMap_34: -607952638
+      PlayerJumpNormalMap_55: 1188595159
+      PlayerJumpNormalMap_57: -1061021638
+      PlayerJumpNormalMap_42: 667779502
+      PlayerJumpNormalMap_37: -1345625344
+      PlayerJumpNormalMap_30: -837973342
+      PlayerJumpNormalMap_44: 815885694
+      PlayerJumpNormalMap_20: 1618296212
+      PlayerJumpNormalMap_46: -811512488
+      PlayerJumpNormalMap_21: -846429855
+      PlayerJumpNormalMap_48: -25993788
+      PlayerJumpNormalMap_50: 597516172
+      PlayerJumpNormalMap_36: -81260486
+      PlayerJumpNormalMap_3: -1928321023
+      PlayerJumpNormalMap_35: 1698960954
+      PlayerJumpNormalMap_40: 506140167
+      PlayerJumpNormalMap_27: 1937830031
+      PlayerJumpNormalMap_28: -1532552697
+      PlayerJumpNormalMap_43: 246684742
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
