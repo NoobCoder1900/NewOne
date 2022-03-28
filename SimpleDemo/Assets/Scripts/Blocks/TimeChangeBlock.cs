@@ -16,7 +16,7 @@ public class TimeChangeBlock : MonoBehaviour
 
     private void Update()
     {
-        Debug.Log(currentTime);
+        
 
         if (currentTime > 0)
         {
