@@ -14,7 +14,7 @@ public class StartLevelPlayerController : MonoBehaviour
     public bool canMove = true; 
 
     private bool active;
-    private void Awake() => Invoke(nameof(Activate), 6f);
+    private void Awake() => Invoke(nameof(Activate), 1f);
     private void Activate() => active = true;
 
     private bool inputToStart;

@@ -2,14 +2,20 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Serialization;
 using UnityEngine.UI;
 
 public class DialogueManager : MonoBehaviour
 {
     public static DialogueManager instance;
+
+    [SerializeField] private GameObject catDialogueBox; // display or not
+    [SerializeField] private GameObject playerDialogueBox; // display or not
+
+    [SerializeField] private Text catDialogueText;
+    [SerializeField] private Text playerDialogueText;
     
-    [SerializeField] private GameObject dialogueBox; // display or not
-    [SerializeField] private Text dialogueText;
+    
 
     [TextArea(1, 3)] 
     [SerializeField] public string[] dialogueLines;
@@ -20,24 +26,23 @@ public class DialogueManager : MonoBehaviour
         instance = this;
     }
 
-    private void Start()
-    {
-        dialogueText.text = dialogueLines[currentLine];
-    }
+
 
     private void Update()
     {
-        if (dialogueBox.activeInHierarchy)
+        if (playerDialogueBox.activeInHierarchy ||
+            catDialogueBox.activeInHierarchy)
         {
             if (Input.GetKeyUp(KeyCode.RightArrow))
             {
-                currentLine++;
-
                 if (currentLine < dialogueLines.Length)
-                    dialogueText.text = dialogueLines[currentLine];
+                {
+                    CheckSpeaker();
+                }
                 else
                 {
-                    dialogueBox.SetActive(false);
+                    playerDialogueBox.SetActive(false);
+                    catDialogueBox.SetActive(false);
                     FindObjectOfType<StartLevelPlayerController>().canMove = true;
                 }
             }
@@ -45,14 +50,37 @@ public class DialogueManager : MonoBehaviour
     }
 
     public void ShowDialogueContents(string[] chatLines)
-    {
-        if (dialogueBox.activeInHierarchy) return;
+    { 
+        if (playerDialogueBox.activeInHierarchy || 
+            catDialogueBox.activeInHierarchy) 
+            return;
+        //如果对话框已经存在，对话已经开始，才会传入对话内容并开启对话
+        
         
         dialogueLines = chatLines;
         currentLine = 0;
-        dialogueText.text = dialogueLines[currentLine];
-        dialogueBox.SetActive(true);
+        
+        CheckSpeaker();
+        
         FindObjectOfType<StartLevelPlayerController>().canMove = false;
     }
-    
+
+    private void CheckSpeaker()
+    {
+        if (dialogueLines[currentLine].StartsWith("---"))
+        {
+            playerDialogueText.text = dialogueLines[currentLine].Replace("---", "");
+            currentLine++;
+            playerDialogueBox.SetActive(true);
+            catDialogueBox.SetActive(false);
+        }
+        else
+        {
+            catDialogueText.text = dialogueLines[currentLine];
+            currentLine++;
+            catDialogueBox.SetActive(true);
+            playerDialogueBox.SetActive(false);
+        }
+    }
+
 }
