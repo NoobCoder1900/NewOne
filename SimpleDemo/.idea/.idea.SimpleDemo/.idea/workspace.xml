@@ -9,7 +9,6 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Blocks/TimeChangeBlock.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DialogueManager.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -67,7 +66,7 @@
       <workItem from="1648446349600" duration="894000" />
       <workItem from="1648447656090" duration="2249000" />
       <workItem from="1648449918054" duration="5523000" />
-      <workItem from="1648473272785" duration="4587000" />
+      <workItem from="1648473272785" duration="5335000" />
     </task>
     <servers />
   </component>
