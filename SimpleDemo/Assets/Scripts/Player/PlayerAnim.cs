@@ -61,7 +61,7 @@ public class PlayerAnim : MonoBehaviour
     {
         
         // 拉弓
-        if (animator.GetCurrentAnimatorStateInfo(0).IsName(animIdle)  && Input.GetKeyDown(KeyCode.F))
+        if (animator.GetCurrentAnimatorStateInfo(0).IsName(animIdle) && Input.GetKeyDown(KeyCode.F))
         {
             Debug.Log(true);
             ChangeAnimState(animArrowDraw);
@@ -84,7 +84,7 @@ public class PlayerAnim : MonoBehaviour
             ChangeAnimState(animJumpUp);
         }
 
-        if (player.Grounded && Input.GetKeyUp(KeyCode.D) || Input.GetKeyUp(KeyCode.A))
+        if (player.Grounded && Input.GetKeyUp(KeyCode.D) || Input.GetKeyUp(KeyCode.A) && player.Velocity.y == 0)
         {
             ChangeAnimState(animIdle);
         }
