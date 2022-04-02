@@ -1,0 +1,1024 @@
+fileFormatVersion: 2
+guid: d1f12bd8a8667439cbc2119df48f2ceb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ArrowRecoil_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 902
+        width: 65
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606ca8871e2434b2fb9e82862bff2a24
+      internalID: 739489182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoil_1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 902
+        width: 65
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8c88c7c0a1647ae94afedc8605a977
+      internalID: 1570065788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoil_2
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 902
+        width: 65
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6707f7d0f0b84cc485ea11ff4f5b965
+      internalID: 85845751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoil_3
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 902
+        width: 65
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6dc5191743d4527ac351fa3300d3c8
+      internalID: -514269673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoil_4
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 902
+        width: 65
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f119460ad14f54cc4b389c44d409f6e0
+      internalID: -1502447529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoil_5
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 902
+        width: 65
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbce35ff115f4c5aa9945575d87ddba
+      internalID: 1973123781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoil_6
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 902
+        width: 64
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d80dc9b5ce1142469baa27ce75c08e8
+      internalID: 2004381010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoil_7
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 752
+        width: 64
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700f6832fe29a48829185fa46df98642
+      internalID: -1129855128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoil_8
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 752
+        width: 64
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de4585b7f1374cac813331081e59062
+      internalID: -1953300638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoil_9
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 752
+        width: 63
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb60f43ad74514abeaeb29872b917fde
+      internalID: 1098366410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoil_10
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 752
+        width: 63
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2661abb5361594770a462741b69d2b00
+      internalID: -1467261622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoil_11
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 752
+        width: 64
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b317bdebd85ce433481a6ca4f064dc33
+      internalID: -909387143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoil_12
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 752
+        width: 65
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730cdadff3daa4b8880e6ca34729cf7c
+      internalID: -1550679032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoil_13
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 752
+        width: 65
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba1d93cea10a473bb41e4adbcd513dd
+      internalID: 1326081444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoil_14
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 602
+        width: 65
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4514459718ad4fd088381f492cce1f1
+      internalID: -1916266063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoil_15
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 602
+        width: 66
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419929db0e3004e3c96c333f210cf033
+      internalID: -599073158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoil_16
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 602
+        width: 66
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0768b8b6cfd7c43a3a5236406f9ae5b6
+      internalID: -114107643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoil_17
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 602
+        width: 66
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a601ee693c04afc8d7d8e4fbd51182
+      internalID: 335679874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoil_18
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 602
+        width: 67
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b061e606cfcd4658b6fe12f2c31420f
+      internalID: 1566693718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoil_19
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 602
+        width: 68
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7ec6acc22c74653884f1028a2ad9ce
+      internalID: -2050951696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoil_20
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 602
+        width: 69
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb791adc789c24d2daff3b444d379813
+      internalID: -1388888219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoil_21
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 452
+        width: 70
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5119cf418ed204e88b29f4e10ab6d4d3
+      internalID: 944626265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoil_22
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 452
+        width: 72
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4d9467105194ede98e91da6ba6592a
+      internalID: -1517314178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoil_23
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 452
+        width: 74
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d771caa7e7cf4497b3a64379bf28551
+      internalID: -983572276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoil_24
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 452
+        width: 75
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb82be6993fd14649aa243a88ab8f93c
+      internalID: -1875375984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoil_25
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 452
+        width: 76
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5615f017564d4895bdc29d470e30106
+      internalID: -1060058614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoil_26
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 452
+        width: 76
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1e667862ae848c1bcf2cc86d9e2907
+      internalID: -650456465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoil_27
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 452
+        width: 76
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22aa4f4c76bb842eeb695b1dd9b4b779
+      internalID: -1211042746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoil_28
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 302
+        width: 77
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57b33dc3bacb4b0dba523fbebd9e744
+      internalID: 1163439330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoil_29
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 302
+        width: 77
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df1c9eae72b74ece831e0021a407d10
+      internalID: 660591459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoil_30
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 302
+        width: 77
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242c391aed09948598693ecb435702ad
+      internalID: -88287827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoil_31
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 302
+        width: 76
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463906153deba44dda1c7f1d8d825e88
+      internalID: 1909192806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoil_32
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 302
+        width: 75
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248d9996cf7db4e2091c5b3ae2c82c75
+      internalID: 970250440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoil_33
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 302
+        width: 75
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d18f15a340e42c494f3d324d35c264
+      internalID: -2050235058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoil_34
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 302
+        width: 74
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbcbf7f7c66241999fc4527b412c378
+      internalID: -1963240651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoil_35
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 152
+        width: 73
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a703ca934a6a4388864ad916cebeca6
+      internalID: 1642783692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoil_36
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 152
+        width: 73
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd92d7b0d9aef4efab78b74e5d4fa5ce
+      internalID: -1201248957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoil_37
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 152
+        width: 72
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5b85b50845d490ba08c66a85a2b3eb
+      internalID: 1989600782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoil_38
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 152
+        width: 71
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30b3f34673e04322983ce5dfc05a658
+      internalID: -1541791182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoil_39
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 152
+        width: 71
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe37f78c9aca40eea76524fd0ced52d
+      internalID: 1577706411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoil_40
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 152
+        width: 71
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e23250f68de6460495e0c3ebcefaaae
+      internalID: 1872815970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ArrowRecoil_14: -1916266063
+      ArrowRecoil_5: 1973123781
+      ArrowRecoil_19: -2050951696
+      ArrowRecoil_39: 1577706411
+      ArrowRecoil_22: -1517314178
+      ArrowRecoil_7: -1129855128
+      ArrowRecoil_27: -1211042746
+      ArrowRecoil_37: 1989600782
+      ArrowRecoil_15: -599073158
+      ArrowRecoil_10: -1467261622
+      ArrowRecoil_0: 739489182
+      ArrowRecoil_9: 1098366410
+      ArrowRecoil_17: 335679874
+      ArrowRecoil_25: -1060058614
+      ArrowRecoil_32: 970250440
+      ArrowRecoil_35: 1642783692
+      ArrowRecoil_38: -1541791182
+      ArrowRecoil_1: 1570065788
+      ArrowRecoil_24: -1875375984
+      ArrowRecoil_18: 1566693718
+      ArrowRecoil_21: 944626265
+      ArrowRecoil_30: -88287827
+      ArrowRecoil_6: 2004381010
+      ArrowRecoil_8: -1953300638
+      ArrowRecoil_23: -983572276
+      ArrowRecoil_28: 1163439330
+      ArrowRecoil_29: 660591459
+      ArrowRecoil_16: -114107643
+      ArrowRecoil_34: -1963240651
+      ArrowRecoil_31: 1909192806
+      ArrowRecoil_36: -1201248957
+      ArrowRecoil_33: -2050235058
+      ArrowRecoil_4: -1502447529
+      ArrowRecoil_3: -514269673
+      ArrowRecoil_11: -909387143
+      ArrowRecoil_20: -1388888219
+      ArrowRecoil_40: 1872815970
+      ArrowRecoil_26: -650456465
+      ArrowRecoil_2: 85845751
+      ArrowRecoil_13: 1326081444
+      ArrowRecoil_12: -1550679032
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

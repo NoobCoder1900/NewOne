@@ -80,7 +80,7 @@ public class PlayerCore : MonoBehaviour
         sp.material.SetFloat(Threshold, changeRequest);
     }
 
-    private void PlayerDie()
+    public void PlayerDie()
     {
         sp.enabled = false;
         StartCoroutine(PlayerRevive());

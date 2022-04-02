@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 354310316778531613}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -82,7 +82,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerRevivePos: {fileID: 0}
-  changeRequest: 0.05
+  blackOrNot: 0
   deathHeight: -4.5
   insideBlock: 0
 --- !u!114 &354310316778531613
@@ -232,7 +232,7 @@ Rigidbody2D:
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 53a708b4937df40ef930cc5e0da3c068, type: 2}
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 1

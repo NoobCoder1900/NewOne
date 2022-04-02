@@ -1,0 +1,1464 @@
+fileFormatVersion: 2
+guid: 016f7c62b12cb4dbeb6547fab2f5c3d2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ArrowDraw_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1052
+        width: 70
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8950adf99f5aa4f1aa079eee8358c575
+      internalID: 1746383235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1052
+        width: 70
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b8377412e9645269ae364713ec6fe6
+      internalID: 688884390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_2
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1052
+        width: 70
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a8234df08e34f1e8868ae5dab3ba29
+      internalID: 93444717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_3
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1052
+        width: 70
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3f1462b3ab746ef8cf36d3441d0a0e
+      internalID: -1321537608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1052
+        width: 70
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2b7984c550945e1b622c429c933acd
+      internalID: 1475606157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_5
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1052
+        width: 72
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e372febf9064cc4ac2e073e959049a
+      internalID: 2000190105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_6
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1052
+        width: 73
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3147e1840293b4868b64551581c1a833
+      internalID: -235363153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_7
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1052
+        width: 74
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4857e5d5ddb144222a9b8bcc3cbcc643
+      internalID: -586971576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 902
+        width: 75
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe7340dd47b148b1a33194fee28b1ee
+      internalID: 808733778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_9
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 902
+        width: 75
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ec76144d532452cacddfd2bf0136c7
+      internalID: -194530869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_10
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 902
+        width: 74
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd769e184c7e64349913bc73d4e6041f
+      internalID: 323121863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_11
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 902
+        width: 73
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba63a7b8228c049e4a5eb97d7783c7c1
+      internalID: -1832461090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_12
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 902
+        width: 72
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae05b8b64b9e440e29ebe1d706b4bcad
+      internalID: 1532190012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_13
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 902
+        width: 72
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1c6cc03eb694cd8a2483f7995c255f
+      internalID: -2133977857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_14
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 902
+        width: 68
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600ad2b90d8554c0bb05b285bf360ca6
+      internalID: -2015593246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_15
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 902
+        width: 66
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929de5c6731f9492684c94848135433a
+      internalID: -1975535468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_16
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 752
+        width: 65
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aaa602c5e10c48cc8e003372bb4b6c3
+      internalID: -417698070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_17
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 752
+        width: 65
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cdc3ecf33584f9685253e2920fd174
+      internalID: -1618056062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_18
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 752
+        width: 65
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa77cf131bbe456b9597052d8220f08
+      internalID: 1489897948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_19
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 752
+        width: 65
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de49629a48704e0591db39054b72758
+      internalID: 942064414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_20
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 752
+        width: 64
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0680353421443719ff7d853395370d
+      internalID: 366136642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_21
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 752
+        width: 64
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1231c38a0851749f59729cda9e3282c2
+      internalID: 84717253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_22
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 752
+        width: 63
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba12dc9b7be9432cb083614ea5b5a0e
+      internalID: 563243365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_23
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 752
+        width: 62
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b77e652c3b95443e987a43b336c689f
+      internalID: -870326735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_24
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 602
+        width: 61
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2002b7063cb834f03b922858bb015c59
+      internalID: -1741258747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_25
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 602
+        width: 60
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f6cdaa5b4c74ec8997487840088686
+      internalID: -222588640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_26
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 602
+        width: 59
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7e8a865fd0a45e8a2a1e2875677c14
+      internalID: -1867205689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_27
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 602
+        width: 58
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e4398f2db1a4d3aab5b8448302869f
+      internalID: 1092941770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_28
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 602
+        width: 57
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c51780e076b4d1183e9585d33de723
+      internalID: 460630622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_29
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 602
+        width: 56
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef1b25a9ba7d4d8c9346214e02ff56a
+      internalID: -565016535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_30
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 602
+        width: 55
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0b05680362149469baff6182da36bf
+      internalID: -1349665112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_31
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 602
+        width: 55
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f39ed12c974431484b4bff5c9a0c85
+      internalID: 1963142739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_32
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 452
+        width: 55
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf9bd0ec3cd64aafab8ff1d15897a95
+      internalID: -1320196748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_33
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 452
+        width: 55
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8421656d9e92941cdae38a22eab1df80
+      internalID: -793268914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_34
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 452
+        width: 55
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4d92a511c864b55aca64fdc8781399
+      internalID: -93010333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_35
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 452
+        width: 55
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89e2bcd539014b4290df5d127618766
+      internalID: 1649872916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_36
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 452
+        width: 56
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6d20f23a4274512a2a9e1f3ce68731
+      internalID: 1276156041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_37
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 452
+        width: 56
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fdc3ee6a5bd46f7bdceb0b280bbbc5
+      internalID: 1086620132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_38
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 452
+        width: 57
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb4260b5bd4e46b8a6e1d536d1e00e3
+      internalID: -1280473861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_39
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 452
+        width: 57
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1771b2379e94c2ba6d55a4009c024f
+      internalID: 224048107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_40
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 302
+        width: 58
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558b9c4c8ed8045acab9dc69a4afcfd1
+      internalID: -1610745089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_41
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 302
+        width: 58
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a271f0797b8495892558079404af5a
+      internalID: -483896345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_42
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 302
+        width: 59
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b5556660cb54869b98fff7b1db55cb
+      internalID: -931177902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_43
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 302
+        width: 59
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d6b909243e84f568ae8c98cdd88baf
+      internalID: -376027389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_44
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 302
+        width: 59
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b70ae4a4236c4ec1a133a76d0f49c8c
+      internalID: -366418426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_45
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 302
+        width: 59
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0927429887a41638cfb9694355cbfc
+      internalID: -289080851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_46
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 302
+        width: 59
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f854412c2d3943f49426f06d1de1edd
+      internalID: -1487990395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_47
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 302
+        width: 60
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddc2fde9787748c0b438a1237ebfa06
+      internalID: -1266020312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_48
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 152
+        width: 60
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af3dad4dd82d457faea9c14fafb2b01
+      internalID: 1214030525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_49
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 152
+        width: 61
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b88a90b57f744e338e792e31b85608c
+      internalID: 771395024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_50
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 152
+        width: 62
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f495f33f5a8464f51801c078f29cf900
+      internalID: -2004847604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_51
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 152
+        width: 62
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d51007961b71455da5c9be48e67cdc2
+      internalID: 1852327081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_52
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 152
+        width: 63
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab16bcd46c8e4829b2ae5b81d3bb6e2
+      internalID: -44758683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_53
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 152
+        width: 63
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d20359736a648e0b19417b79c1af2a
+      internalID: -1914783881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_54
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 152
+        width: 63
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b81b30d0d010433da601614920d4bb4
+      internalID: -1031559424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_55
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 152
+        width: 64
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97011d458a0349ccbbc13799dd89eea
+      internalID: 522185740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_56
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 2
+        width: 64
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d768e63e253a64d98b89a544ce00408f
+      internalID: -1055988569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_57
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 2
+        width: 64
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd88939128d44e74937db5516c0f871
+      internalID: -732747395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_58
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 2
+        width: 65
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b092e0861a9542e5a7ad880330467bd
+      internalID: 661231056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_59
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 2
+        width: 65
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7631a294a9fa849678b4c3ff6b5e0d7e
+      internalID: 307256084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDraw_60
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 2
+        width: 65
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bef3033d51a845efa48e0efd444b57e
+      internalID: 808910819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ArrowDraw_57: -732747395
+      ArrowDraw_6: -235363153
+      ArrowDraw_12: 1532190012
+      ArrowDraw_20: 366136642
+      ArrowDraw_4: 1475606157
+      ArrowDraw_15: -1975535468
+      ArrowDraw_53: -1914783881
+      ArrowDraw_59: 307256084
+      ArrowDraw_25: -222588640
+      ArrowDraw_30: -1349665112
+      ArrowDraw_28: 460630622
+      ArrowDraw_29: -565016535
+      ArrowDraw_50: -2004847604
+      ArrowDraw_56: -1055988569
+      ArrowDraw_48: 1214030525
+      ArrowDraw_36: 1276156041
+      ArrowDraw_55: 522185740
+      ArrowDraw_60: 808910819
+      ArrowDraw_49: 771395024
+      ArrowDraw_7: -586971576
+      ArrowDraw_18: 1489897948
+      ArrowDraw_8: 808733778
+      ArrowDraw_21: 84717253
+      ArrowDraw_13: -2133977857
+      ArrowDraw_16: -417698070
+      ArrowDraw_10: 323121863
+      ArrowDraw_44: -366418426
+      ArrowDraw_11: -1832461090
+      ArrowDraw_2: 93444717
+      ArrowDraw_14: -2015593246
+      ArrowDraw_52: -44758683
+      ArrowDraw_9: -194530869
+      ArrowDraw_1: 688884390
+      ArrowDraw_38: -1280473861
+      ArrowDraw_22: 563243365
+      ArrowDraw_31: 1963142739
+      ArrowDraw_32: -1320196748
+      ArrowDraw_0: 1746383235
+      ArrowDraw_51: 1852327081
+      ArrowDraw_42: -931177902
+      ArrowDraw_34: -93010333
+      ArrowDraw_24: -1741258747
+      ArrowDraw_37: 1086620132
+      ArrowDraw_54: -1031559424
+      ArrowDraw_23: -870326735
+      ArrowDraw_45: -289080851
+      ArrowDraw_17: -1618056062
+      ArrowDraw_19: 942064414
+      ArrowDraw_43: -376027389
+      ArrowDraw_58: 661231056
+      ArrowDraw_3: -1321537608
+      ArrowDraw_35: 1649872916
+      ArrowDraw_47: -1266020312
+      ArrowDraw_46: -1487990395
+      ArrowDraw_5: 2000190105
+      ArrowDraw_39: 224048107
+      ArrowDraw_40: -1610745089
+      ArrowDraw_26: -1867205689
+      ArrowDraw_27: 1092941770
+      ArrowDraw_33: -793268914
+      ArrowDraw_41: -483896345
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

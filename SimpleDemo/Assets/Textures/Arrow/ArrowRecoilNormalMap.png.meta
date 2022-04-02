@@ -1,0 +1,1024 @@
+fileFormatVersion: 2
+guid: e5b23b0da63b848518b401d1ddc5e254
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ArrowRecoilNormalMap_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 902
+        width: 65
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0795f7245e2414da5a58348a989e9d6f
+      internalID: 409114733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoilNormalMap_1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 902
+        width: 65
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f395ec7de316b466ca9092636737d741
+      internalID: -1240997705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoilNormalMap_2
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 902
+        width: 65
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9845fc79b0b045b2aa574f24cfacb3e
+      internalID: 1798677395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoilNormalMap_3
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 902
+        width: 65
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7a9846b20794923bffe43335689fb8
+      internalID: 459056130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoilNormalMap_4
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 902
+        width: 65
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b404e72cd84c40d3a081462ed490b6f
+      internalID: -1196305284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoilNormalMap_5
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 902
+        width: 65
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac0040931cc144f3ac977b8775f8acb
+      internalID: 1279148987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoilNormalMap_6
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 902
+        width: 64
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c9c3ede764345269aac28e4120dcb2
+      internalID: -39157837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoilNormalMap_7
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 752
+        width: 64
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c194a5be059d4f76bba489fca807696
+      internalID: -1160623258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoilNormalMap_8
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 752
+        width: 64
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d1be077448c4fa5b45911fa51f4d97
+      internalID: -1475828289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoilNormalMap_9
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 752
+        width: 63
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8a65ff116ca432ba9e839cab5f57e0
+      internalID: 846858947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoilNormalMap_10
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 752
+        width: 63
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b691bea218704300840b94e969353f3
+      internalID: -384590543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoilNormalMap_11
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 752
+        width: 64
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd4b773dff9943429879fa4da9268d8
+      internalID: 2083983276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoilNormalMap_12
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 752
+        width: 65
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b55b1e872944152a60be57a2f778a9
+      internalID: 352035915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoilNormalMap_13
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 752
+        width: 65
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc560f0d07dc8452f98fbadf14730352
+      internalID: -328791725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoilNormalMap_14
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 602
+        width: 65
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3145b57c8dc064d73b35a6b339011cc8
+      internalID: -151420669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoilNormalMap_15
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 602
+        width: 66
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55576be93a0b40728fe474a31f7f970
+      internalID: -1001063569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoilNormalMap_16
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 602
+        width: 66
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b10f004258f418ca0fa195ac47353d
+      internalID: -789112741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoilNormalMap_17
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 602
+        width: 66
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0236be348018d45da8482392f44a632d
+      internalID: -310302635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoilNormalMap_18
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 602
+        width: 67
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1144679c4618a47459066780f8f02dbf
+      internalID: 1308015807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoilNormalMap_19
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 602
+        width: 68
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a514025311249869aec68fe53718ba
+      internalID: -1962997406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoilNormalMap_20
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 602
+        width: 69
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd1ab7e05c9e42d6b0df11595fc0966
+      internalID: -303732957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoilNormalMap_21
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 452
+        width: 70
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc20d071e0e84d4782cf967028d9d0a
+      internalID: 33500816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoilNormalMap_22
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 452
+        width: 72
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d433b89ba9584458aa05a3713137033d
+      internalID: 514088906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoilNormalMap_23
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 452
+        width: 74
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e239b98d246b24e1c80c5045e030c616
+      internalID: -1011192090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoilNormalMap_24
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 452
+        width: 75
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1b5b565071f413b9e5ee854b9067af
+      internalID: -25972948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoilNormalMap_25
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 452
+        width: 76
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048abce3b2cdb41c097e35cb78aa0814
+      internalID: -1066744460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoilNormalMap_26
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 452
+        width: 76
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e6fbf723aad43a7aaca216b4c58a4a
+      internalID: -1472534862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoilNormalMap_27
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 452
+        width: 76
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42f1ec26e8b9416d808dd3c7296d0b1
+      internalID: 720553631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoilNormalMap_28
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 302
+        width: 77
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c48b31ad8644404bc5016dbe8ad05d
+      internalID: 770511280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoilNormalMap_29
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 302
+        width: 77
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9c04586fc1e48c194c5c80fa777adf
+      internalID: 229663020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoilNormalMap_30
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 302
+        width: 77
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e1c935930834032961ad94e917b94c
+      internalID: -1473244608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoilNormalMap_31
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 302
+        width: 76
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510862bbe41714f268c72027e5ca4562
+      internalID: -1159681649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoilNormalMap_32
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 302
+        width: 75
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed19e3f56d874c418829b473acbadce
+      internalID: 1553881528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoilNormalMap_33
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 302
+        width: 75
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65c585734a32479d9d4cac25aba7a5b
+      internalID: -1740957304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoilNormalMap_34
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 302
+        width: 74
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414da5637b1084314883a8d7d9a88611
+      internalID: 1802134250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoilNormalMap_35
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 152
+        width: 73
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f055920ddebdf49a2a98d35935f15638
+      internalID: 1816126391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoilNormalMap_36
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 152
+        width: 73
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7253b04b664b546ecb46218361562b2f
+      internalID: 263903511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoilNormalMap_37
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 152
+        width: 72
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35afe98c5096549a6af0a6065efa2a93
+      internalID: 943700313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoilNormalMap_38
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 152
+        width: 71
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0820b9c85b14468ca950d1c17f1b432
+      internalID: 1484295274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoilNormalMap_39
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 152
+        width: 71
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede79c14900be4236afb9597e9e77c6d
+      internalID: 175276799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowRecoilNormalMap_40
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 152
+        width: 71
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6db3c9e8971442889b684fb4571ee87
+      internalID: 822232578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ArrowRecoilNormalMap_9: 846858947
+      ArrowRecoilNormalMap_30: -1473244608
+      ArrowRecoilNormalMap_24: -25972948
+      ArrowRecoilNormalMap_7: -1160623258
+      ArrowRecoilNormalMap_40: 822232578
+      ArrowRecoilNormalMap_15: -1001063569
+      ArrowRecoilNormalMap_25: -1066744460
+      ArrowRecoilNormalMap_0: 409114733
+      ArrowRecoilNormalMap_36: 263903511
+      ArrowRecoilNormalMap_23: -1011192090
+      ArrowRecoilNormalMap_39: 175276799
+      ArrowRecoilNormalMap_27: 720553631
+      ArrowRecoilNormalMap_26: -1472534862
+      ArrowRecoilNormalMap_37: 943700313
+      ArrowRecoilNormalMap_5: 1279148987
+      ArrowRecoilNormalMap_8: -1475828289
+      ArrowRecoilNormalMap_3: 459056130
+      ArrowRecoilNormalMap_29: 229663020
+      ArrowRecoilNormalMap_4: -1196305284
+      ArrowRecoilNormalMap_17: -310302635
+      ArrowRecoilNormalMap_31: -1159681649
+      ArrowRecoilNormalMap_11: 2083983276
+      ArrowRecoilNormalMap_6: -39157837
+      ArrowRecoilNormalMap_34: 1802134250
+      ArrowRecoilNormalMap_13: -328791725
+      ArrowRecoilNormalMap_33: -1740957304
+      ArrowRecoilNormalMap_10: -384590543
+      ArrowRecoilNormalMap_2: 1798677395
+      ArrowRecoilNormalMap_28: 770511280
+      ArrowRecoilNormalMap_20: -303732957
+      ArrowRecoilNormalMap_16: -789112741
+      ArrowRecoilNormalMap_32: 1553881528
+      ArrowRecoilNormalMap_38: 1484295274
+      ArrowRecoilNormalMap_1: -1240997705
+      ArrowRecoilNormalMap_35: 1816126391
+      ArrowRecoilNormalMap_22: 514088906
+      ArrowRecoilNormalMap_14: -151420669
+      ArrowRecoilNormalMap_21: 33500816
+      ArrowRecoilNormalMap_12: 352035915
+      ArrowRecoilNormalMap_19: -1962997406
+      ArrowRecoilNormalMap_18: 1308015807
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

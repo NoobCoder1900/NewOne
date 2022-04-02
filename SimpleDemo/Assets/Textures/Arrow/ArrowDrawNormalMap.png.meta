@@ -1,0 +1,1464 @@
+fileFormatVersion: 2
+guid: 4bc81ba0e9efd4c7c8b5257469cec1e9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1052
+        width: 70
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e68e2426a1174ae593b92113917a20a
+      internalID: -955212748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1052
+        width: 70
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea22da0149d9e4dd2af1c980361cb372
+      internalID: 1394178811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_2
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1052
+        width: 70
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310ad8268a16c4c748dd172a0cd4637b
+      internalID: -1432276181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_3
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1052
+        width: 70
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a57b4372f5d4467f9261dd93cd76635
+      internalID: -1587800927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1052
+        width: 70
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2980d3ec80c84e578724df3518cce0a
+      internalID: 1800930308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_5
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1052
+        width: 72
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e17bb0c4b1b42d597442ff1789d226
+      internalID: -292132244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_6
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1052
+        width: 73
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f49babbd82554ca5bdb4a99ed5ee609
+      internalID: 714294267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_7
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1052
+        width: 74
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3924c04845d448f8a460358edeeafd
+      internalID: 452732668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 902
+        width: 75
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc8923bf6acf49d28813a38f508a3b3
+      internalID: 2014673171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_9
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 902
+        width: 75
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8b1800ea4cd4d25b595b66345063e0
+      internalID: 1494274341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_10
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 902
+        width: 74
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e860633f69c054b2ba684b689d67befc
+      internalID: -1504788138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_11
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 902
+        width: 73
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f84239899d54cc08000d365d624ea2
+      internalID: -1792364739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_12
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 902
+        width: 72
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3954ee0872b884f6c99981e2d632b125
+      internalID: -593232399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_13
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 902
+        width: 72
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908922983620a4922a4cc8206d0085ee
+      internalID: -722831142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_14
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 902
+        width: 68
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4592df97cef242fc9aca7c573b534eb
+      internalID: -711399154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_15
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 902
+        width: 66
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59ec18fa6a914e6caf09f9b9d41f819
+      internalID: -1332147959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_16
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 752
+        width: 65
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b529d1df151c41ed9fc03285004c6b4
+      internalID: 1855734346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_17
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 752
+        width: 65
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5097a8a48ce14522bc477ae0d54b919
+      internalID: -755463400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_18
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 752
+        width: 65
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045ec6905621147a2bded703df0a0dcf
+      internalID: -1283286582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_19
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 752
+        width: 65
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba87e6a017f54b389735deb7208b4ae
+      internalID: -2054829481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_20
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 752
+        width: 64
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcabe3b1afad410589e1a94a51c350c
+      internalID: -2069277020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_21
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 752
+        width: 64
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a960a84dbb542279390c2ca6e38145
+      internalID: 1269547927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_22
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 752
+        width: 63
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc6f609d2d374970ad9b5777d0044ad
+      internalID: -680802629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_23
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 752
+        width: 62
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181631ab8d72c4549bb804ab363745a6
+      internalID: 354478507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_24
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 602
+        width: 61
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63be7c1be466484487974db2c8f0baa
+      internalID: 12106235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_25
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 602
+        width: 60
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e60931cffac411db78d81ccd1ab240
+      internalID: -1180303698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_26
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 602
+        width: 59
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5c249d060e24e10a8a0031c88db23a
+      internalID: -448673997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_27
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 602
+        width: 58
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba9e042c3cbc4165bfe6671d72e02c5
+      internalID: -459071525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_28
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 602
+        width: 57
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a412d5a7595534e2e984b7dc3d6df75a
+      internalID: -1963072606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_29
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 602
+        width: 56
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda584e1738f74705981f9b8a57c37e0
+      internalID: 213309138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_30
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 602
+        width: 55
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c6531539f8e40679b25432195abfea
+      internalID: -1205226231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_31
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 602
+        width: 55
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a840dc09fa004a5da7845fad6f39894
+      internalID: -408383387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_32
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 452
+        width: 55
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd51bfdf6982448b8e3dc1336227f14
+      internalID: -409146862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_33
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 452
+        width: 55
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c087a488643438db73e927fe55a9d2
+      internalID: -1060829189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_34
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 452
+        width: 55
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e994eb97b0bf43c88f982bac2307d73
+      internalID: 594826802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_35
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 452
+        width: 55
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7a93401463c47d090c903a7eb871eb
+      internalID: -275789155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_36
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 452
+        width: 56
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2163039bd6743ddb387095491cb858
+      internalID: 1501177138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_37
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 452
+        width: 56
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a60b369822f6476a8bbf1d0314a5cbf
+      internalID: -1353889763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_38
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 452
+        width: 57
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3085ef2d665224ca3bf4778e1e32b1b3
+      internalID: 783113991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_39
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 452
+        width: 57
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cb8c1374efa4912a6cf39c95d572a4
+      internalID: -691497609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_40
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 302
+        width: 58
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2574e3fc08d9f4b35bb7d706217faf50
+      internalID: 2023923641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_41
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 302
+        width: 58
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f183e764a72d64c0fa41a5122b993eb2
+      internalID: 1780761728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_42
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 302
+        width: 59
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc96269dd4cc4dff9fe53ed9d608eac
+      internalID: 1239264348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_43
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 302
+        width: 59
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145ffd57bcbba4e539016dc60a624ce6
+      internalID: 443072281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_44
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 302
+        width: 59
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5359f1fc3d344cfab260fdb6ddb178d
+      internalID: 836310974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_45
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 302
+        width: 59
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe42e5cfddd64feebd3ac6efbaf4bed
+      internalID: 1698514681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_46
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 302
+        width: 59
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11dddaf131ac545e1b38fe9439e6d822
+      internalID: 1032354440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_47
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 302
+        width: 60
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0a92227f3c241d9b6a0b53e58fecc1
+      internalID: -722974366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_48
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 152
+        width: 60
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b3bf9503e5a450ba601a811eebf02f
+      internalID: 73245675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_49
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 152
+        width: 61
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb523d10e52c249938256b60fb050f8b
+      internalID: 1551853289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_50
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 152
+        width: 62
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa512f49a9814954bd51d243b92f35b
+      internalID: -1103333247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_51
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 152
+        width: 62
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71143d50963644e7ba409be4ed98788a
+      internalID: -1219648541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_52
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 152
+        width: 63
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612421a1c6f1849858b2247d7d1794a2
+      internalID: -2144168108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_53
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 152
+        width: 63
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8d4f61d2b76473ca67c59fa65d865f
+      internalID: 1893341510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_54
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 152
+        width: 63
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcccd67e369d437a81dfbdb1209e66f
+      internalID: 888854194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_55
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 152
+        width: 64
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8550c583406431a936cc64af5f441b
+      internalID: 299180925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_56
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 2
+        width: 64
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8589c01d00f38413585fa11e76ad5c85
+      internalID: 232370462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_57
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 2
+        width: 64
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2453bce310fdd4253aa5f12cbc8b8c4e
+      internalID: 558693959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_58
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 2
+        width: 65
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd493a54ed504d8b8b6a3b600a23acb
+      internalID: -1311111676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_59
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 2
+        width: 65
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20560070118aa460e89bf0391892f664
+      internalID: -251796084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDrawNormalMap_60
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 2
+        width: 65
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c611e480d38c84621b4ea74bebe4a7b0
+      internalID: -825369870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ArrowDrawNormalMap_44: 836310974
+      ArrowDrawNormalMap_17: -755463400
+      ArrowDrawNormalMap_16: 1855734346
+      ArrowDrawNormalMap_0: -955212748
+      ArrowDrawNormalMap_53: 1893341510
+      ArrowDrawNormalMap_52: -2144168108
+      ArrowDrawNormalMap_57: 558693959
+      ArrowDrawNormalMap_10: -1504788138
+      ArrowDrawNormalMap_7: 452732668
+      ArrowDrawNormalMap_40: 2023923641
+      ArrowDrawNormalMap_9: 1494274341
+      ArrowDrawNormalMap_12: -593232399
+      ArrowDrawNormalMap_51: -1219648541
+      ArrowDrawNormalMap_38: 783113991
+      ArrowDrawNormalMap_27: -459071525
+      ArrowDrawNormalMap_25: -1180303698
+      ArrowDrawNormalMap_22: -680802629
+      ArrowDrawNormalMap_42: 1239264348
+      ArrowDrawNormalMap_59: -251796084
+      ArrowDrawNormalMap_8: 2014673171
+      ArrowDrawNormalMap_28: -1963072606
+      ArrowDrawNormalMap_21: 1269547927
+      ArrowDrawNormalMap_1: 1394178811
+      ArrowDrawNormalMap_55: 299180925
+      ArrowDrawNormalMap_37: -1353889763
+      ArrowDrawNormalMap_15: -1332147959
+      ArrowDrawNormalMap_4: 1800930308
+      ArrowDrawNormalMap_5: -292132244
+      ArrowDrawNormalMap_6: 714294267
+      ArrowDrawNormalMap_13: -722831142
+      ArrowDrawNormalMap_19: -2054829481
+      ArrowDrawNormalMap_54: 888854194
+      ArrowDrawNormalMap_20: -2069277020
+      ArrowDrawNormalMap_58: -1311111676
+      ArrowDrawNormalMap_48: 73245675
+      ArrowDrawNormalMap_32: -409146862
+      ArrowDrawNormalMap_26: -448673997
+      ArrowDrawNormalMap_34: 594826802
+      ArrowDrawNormalMap_30: -1205226231
+      ArrowDrawNormalMap_11: -1792364739
+      ArrowDrawNormalMap_14: -711399154
+      ArrowDrawNormalMap_39: -691497609
+      ArrowDrawNormalMap_31: -408383387
+      ArrowDrawNormalMap_2: -1432276181
+      ArrowDrawNormalMap_18: -1283286582
+      ArrowDrawNormalMap_33: -1060829189
+      ArrowDrawNormalMap_46: 1032354440
+      ArrowDrawNormalMap_35: -275789155
+      ArrowDrawNormalMap_60: -825369870
+      ArrowDrawNormalMap_24: 12106235
+      ArrowDrawNormalMap_41: 1780761728
+      ArrowDrawNormalMap_45: 1698514681
+      ArrowDrawNormalMap_23: 354478507
+      ArrowDrawNormalMap_29: 213309138
+      ArrowDrawNormalMap_49: 1551853289
+      ArrowDrawNormalMap_56: 232370462
+      ArrowDrawNormalMap_47: -722974366
+      ArrowDrawNormalMap_3: -1587800927
+      ArrowDrawNormalMap_43: 443072281
+      ArrowDrawNormalMap_50: -1103333247
+      ArrowDrawNormalMap_36: 1501177138
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

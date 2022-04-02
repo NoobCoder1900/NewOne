@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Random = UnityEngine.Random;
 
 public class PlayerAnim : MonoBehaviour
 {
@@ -17,6 +18,9 @@ public class PlayerAnim : MonoBehaviour
     private const string animOnlyJumpUp = "OnlyJumpUp";
     private const string animOnlyJumpIdle = "OnlyJumpIdle";
     private const string animOnlyJumpFall = "OnlyJumpFall";
+    private const string animArrowDraw = "ArrowDraw";
+    private const string animArrowRecoil = "ArrowRecoil";
+
 
     [SerializeField] private Texture texIdle;
     [SerializeField] private Texture texRun;
@@ -24,6 +28,8 @@ public class PlayerAnim : MonoBehaviour
     [SerializeField] private Texture texOnlyJumpUp;
     [SerializeField] private Texture texOnlyJumpIdle;
     [SerializeField] private Texture texOnlyJumpFall;
+    [SerializeField] private Texture texArrowDraw;
+    [SerializeField] private Texture texArrowRecoil;
     private static readonly int NormalMap = Shader.PropertyToID("_NormalMap");
     
 
@@ -53,6 +59,13 @@ public class PlayerAnim : MonoBehaviour
 
     private void Animation()
     {
+        
+        // 拉弓
+        if (animator.GetCurrentAnimatorStateInfo(0).IsName(animIdle)  && Input.GetKeyDown(KeyCode.F))
+        {
+            Debug.Log(true);
+            ChangeAnimState(animArrowDraw);
+        }
         
         // Run
         if (player.Grounded && player.input.runInput != 0 && player.Velocity.y == 0)
@@ -125,6 +138,11 @@ public class PlayerAnim : MonoBehaviour
         if (animator.GetCurrentAnimatorStateInfo(0).IsName(animOnlyJumpFall))
             ChangeMaterialOfAnim(texOnlyJumpFall);
         
+        if (animator.GetCurrentAnimatorStateInfo(0).IsName(animArrowDraw))
+            ChangeMaterialOfAnim(texArrowDraw);
+        
+        if (animator.GetCurrentAnimatorStateInfo(0).IsName(animArrowRecoil))
+            ChangeMaterialOfAnim(texArrowRecoil);
     }
     
     

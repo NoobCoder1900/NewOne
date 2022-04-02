@@ -78,7 +78,7 @@ Material:
     - _CastShadows: 0
     - _Cull: 2
     - _DstBlend: 0
-    - _Edge_Thickness: 0.03
+    - _Edge_Thickness: 0.01
     - _EnableExternalAlpha: 0
     - _QueueControl: 0
     - _QueueOffset: 0
@@ -89,7 +89,7 @@ Material:
     - _ZWriteControl: 0
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _EdgeColor: {r: 0, g: 2.670157, b: 1.4707144, a: 0}
+    - _EdgeColor: {r: 25.416586, g: 25.416586, b: 25.416586, a: 0}
     - _Flip: {r: 1, g: 1, b: 1, a: 1}
     - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []
