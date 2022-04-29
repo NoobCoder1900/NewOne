@@ -28,3 +28,5 @@ public struct RayRange
 
     public readonly Vector2 start, end, direction;
 }
+
+public struct ji
